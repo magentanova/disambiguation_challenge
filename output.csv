@@ -1,0 +1,1001 @@
+,bachelor_year,department,doctoral_year,email,name,person_id,title
+0,1972.0,,1977.0,pmcclain@duke.edu,Paula McClain,3583,Professor of Political Science
+1,,,1999.0,chad.miller@duke.edu,Chad Miller,3754,Assistant Professor of Radiology
+2,,,1983.0,david.hosford1@gmail.com,David Hosford,2482,Adjunct Associate Professor in the Department of Neurology
+3,,,1986.0,barbara.deets.mathews@duke.edu,Barbara Deets Mathews,1322,Consulting Associate in the School of Nursing
+4,,,2007.0,aaron.sandler@duke.edu,Aaron Sandler,4844,Assistant Professor of Anesthesiology
+5,1978.0,,1985.0,tmo1@duke.edu,Thomas Mitchell-Olds,3795,Newman Ivey White Professor of Biology in Trinity College of Arts and Sciences
+6,,,1990.0,cook0054@mc.duke.edu,Donald Cook,1140,Adjunct Assistant Professor in the Department of Immunology
+7,1988.0,,1997.0,richard.newell@duke.edu,Richard Newell,4000,Adjunct Professor
+8,,,1991.0,warwick.ames@duke.edu,Warwick Ames,131,Associate Professor of Anesthesiology
+9,,,1996.0,alberts.chang@duke.edu,Albert Chang,921,Assistant Professor of Surgery
+10,1982.0,,1990.0,jianguo.liu@duke.edu,Jian-Guo Liu,3312,Professor of Physics
+11,,,1985.0,yarna001@mc.duke.edu,Kimberly Hawblitzel Yarnall,2279,Associate Professor of Community and Family Medicine
+12,1962.0,,1966.0,frll@duke.edu,Frank Lentricchia,3207,Katharine Everett Gilbert Professor Emeritus of Literature
+13,,,,fitch006@mc.duke.edu,Jan Minnic Fitch,1698,Adjunct Assistant Professor in the Department of Orthopaedic Surgery
+14,,,2006.0,shelley.hwang@duke.edu,Eun-Sil Hwang,2558,Professor of Surgery
+15,,,2005.0,kathryn.flynn@duke.edu,Kathryn Flynn,1722,Adjunct Assistant Professor in the Department of Psychiatry and Behavioral Sciences
+16,,,2010.0,timothy.nichols@duke.edu,Timothy Nichols,4017,Visiting Associate Professor of the Practice in the Sanford School of Public Policy
+17,,,1985.0,kgil@email.unc.edu,Karen Gil,1932,Adjunct Associate Professor of Medical Psychology in the Department of Psychiatry and Behavioral Sciences
+18,,,1998.0,shelby.reed@duke.edu,Shelby Reed,4571,Professor in Medicine
+19,1996.0,,2003.0,hillygus@duke.edu,D. Hillygus,2388,Professor of Political Science
+20,,,1992.0,afshin.farzanehfar@duke.edu,Afshin Farzaneh-Far,1627,Assistant Consulting Professor in the Department of Medicine
+21,,,1985.0,michael.russell@duke.edu,Michael Russell,4797,Professor Emeritus of Medicine
+22,1966.0,,1974.0,alex.roland@duke.edu,Alex Roland,4720,Professor Emeritus of History
+23,,,,ellis005@mc.duke.edu,George Ellis,1556,Associate Professor Emeritus of Medicine
+24,,,1981.0,madis001@mc.duke.edu,Roger Madison,3425,Associate Professor of Neurosurgery
+25,,,1993.0,enyed001@mc.duke.edu,Laura Enyedi,1577,Associate Professor of Ophthalmology
+26,,,2000.0,christelle.gonthier@duke.edu,Christelle Gonthier,1991,Lecturing Fellow of Romance Studies
+27,,,2001.0,shboyle@duke.edu,Stephen Boyle,622,Medical Instructor in the Department of Psychiatry and Behavioral Sciences
+28,1985.0,,1989.0,kepler@duke.edu,Thomas Kepler,2848,Adjunct Professor in the Department of Immunology
+29,,,1982.0,magat@law.duke.edu,Joan Magat,3426,"Lecturing Fellow, Senior in Law - Office of Dean"
+30,,,1979.0,william.coleman@cdl.unc.edu,William Coleman,1104,Assistant Consulting Professor in the Department of Pediatrics
+31,,,1989.0,,John Finn,1685,Assistant Consulting Professor in the Department of Surgery
+32,,,1998.0,devdutta.sangvai@duke.edu,Devdutta Sangvai,4846,Associate Professor in Community and Family Medicine
+33,,,2010.0,susan.hibbard@duke.edu,Susan Hibbard,2370,Assistant Professor in Community and Family Medicine
+34,,,1998.0,dm316@dm.duke.edu,Delani Mann-Johnson,3472,Medical Instructor in the Department of Medicine
+35,,,1982.0,martha.gagliano@duke.edu,Martha Gagliano,1830,Consulting Associate in the Department of Pediatrics
+36,,,1983.0,,James Hermiller,2355,Assistant Consulting Professor in the Department of Medicine
+37,,,1994.0,clive.gray@uct.ac.za,Clive Gray,2049,Adjunct Professor in the Department of Immunology
+38,,,1996.0,,Matthew Mathias,3538,Consulting Associate in Community and Family Medicine
+39,,,1998.0,nancy.maclaurin@duke.edu,Nancy MacLaurin,3409,Assistant Professor of Obstetrics and Gynecology
+40,1972.0,,1974.0,john.nicholson@duke.edu,John Nicholson,4018,Adjunct Associate Professor in the Pratt School of Engineering
+41,,,2002.0,elizabeth.ramsburg@duke.edu,Elizabeth Ramsburg,4517,Adjunct Assistant Professor in the Department of Molecular Genetics and Microbiology
+42,,,1993.0,marshall.anderson@duke.edu,Marshall Anderson,146,Clinical Associate in the Department of Medicine
+43,1984.0,,1987.0,shelleyl@duke.edu,Shelley Livingston,3322,Staff Associate of Music
+44,1971.0,,1983.0,catherine.gilliss@duke.edu,Catherine Gilliss,1941,Helene Fuld Health Trust Professor of Nursing
+45,,,2006.0,julie.a.pearson@duke.edu,Julie Pearson,4263,Consulting Associate in the School of Nursing
+46,,,2005.0,june.cho@duke.edu,June Cho,995,Associate Professor in the School of Nursing
+47,,,2005.0,dennis.ko@duke.edu,Dennis Ko,2958,Assistant Professor in Molecular Genetics and Microbiology
+48,,,2009.0,ka.chen@duke.edu,Ka Chen,957,Visiting Research Scholar in the Department of Medicine
+49,,,1980.0,marilyn.oermann@duke.edu,Marilyn Oermann,4093,Thelma M. Ingles Professor of Nursing in the School of Nursing
+50,,,1982.0,mike.been@duke.edu,Michael Been,388,Professor Emeritus of Biochemistry
+51,,,2002.0,xavier.mela@duke.edu,Xavier Mela,3686,Instructor of Mathematics
+52,,,1980.0,larry.moss@duke.edu,Larry Moss,3886,Associate Professor of Medicine
+53,,,1996.0,conrad.hodgkinson@duke.edu,Conrad Hodgkinson,2410,Assistant Professor in Medicine
+54,,,,hbr@law.duke.edu,Horace Robertson,4682,Professor Emeritus
+55,1964.0,,1969.0,steven.baldwin@duke.edu,Steven Baldwin,274,Professor of Chemistry
+56,,,1985.0,bo.newsome@duke.edu,Bo Newsome,4007,"Lecturer, Part-time of Music"
+57,,,2009.0,pwp8@duke.edu,Patsy Park,4197,Medical Instructor in the Department of Pediatrics
+58,,,2005.0,nadine.barrett@duke.edu,Nadine Barrett,332,Medical Instructor in Community and Family Medicine
+59,,,1974.0,hladd@duke.edu,Helen Ladd,3081,Susan B. King Professor of Public Policy
+60,,,2003.0,rachel.richesson@duke.edu,Rachel Richesson,4646,Associate Professor in the School of Nursing
+61,,,1996.0,roberto.manson@duke.edu,Roberto Manson,3477,Assistant Professor of Surgery
+62,,,2014.0,david.bartlett@duke.edu,David Bartlett,336,Medical Instructor in the Department of Medicine
+63,,,1972.0,,Mihai Gheorghiade,1925,Adjunct Professor in the Department of Medicine
+64,1993.0,,2000.0,peter.hoff@duke.edu,Peter Hoff,2413,Professor of Statistical Science
+65,1981.0,,1999.0,jeff.glass@duke.edu,Jeffrey Glass,1955,Professor of Electrical and Computer Engineering
+66,,,2009.0,nherr@american.edu,Nathaniel Herr,2359,Adjunct Assistant Professor in the Department of Psychiatry and Behavioral Sciences
+67,,,2003.0,,Kristen Marks,3500,Visiting Lecturer of Theater Studies
+68,1990.0,,1998.0,david.schaad@duke.edu,David Schaad,4876,Professor of the Practice of Civil and Environmental Engineering
+69,,,1999.0,vivian.makar@duke.edu,Vivian Makar,3444,Clinical Associate in the Department of Pediatrics
+70,,,2013.0,sarah.holsopple@duke.edu,Sarah Holsopple,2445,Clinical Associate in the Department of Pediatrics
+71,,,1974.0,david.rubin@duke.edu,David Rubin,4776,Juanita M. Kreps Professor of Psychology and Neuroscience
+72,,,,lbearon@email.com,Lucille Bearon,370,Adjunct Assistant Professor in the School of Nursing
+73,1977.0,,1987.0,gregory.gray@duke.edu,Gregory Gray,2050,Professor of Medicine
+74,,,1998.0,kristin.scott@duke.edu,Kristin Scott,4950,Adjunct Assistant Professor in the Department of Molecular Genetics and Microbiology
+75,1975.0,,1982.0,rmaddox@div.duke.edu,Randy Maddox,3424,William Kellon Quick Professor of Theology and Methodist Studies
+76,,,2015.0,peter.pihos@duke.edu,Peter Pihos,4337,Lecturing Fellow in the Thompson Writing Program
+77,,,1968.0,john.carr@duke.edu,John Carr,865,Consulting Associate in the Department of Dermatology
+78,,,2001.0,scott.lynch@duke.edu,Scott Lynch,3391,Professor in the Department of Sociology
+79,,,2010.0,julia.scialla@duke.edu,Julia Scialla,4944,Assistant Professor of Medicine
+80,,,2008.0,jakob.norberg@duke.edu,Jakob Norberg,4048,Assistant Professor of Germanic Languages and Literature
+81,,,2002.0,stefanie.schuman@duke.edu,Stefanie Schuman,4934,Assistant Professor of Ophthalmology
+82,,,1984.0,,Barry Allen,95,Adjunct Assistant Professor in the Department of Anesthesiology
+83,,,,cowan007@mc.duke.edu,Ellen Cowan,1177,Clinical Associate in the School of Nursing
+84,,,1983.0,sue.robertson@duke.edu,Sue Jinks-Robertson,2660,Professor of Molecular Genetics and Microbiology
+85,,,2005.0,,Karen Appleyard,178,Assistant Professor in Psychiatry and Behavioral Medicine
+86,,,1977.0,george.cianciolo@duke.edu,George Cianciolo,1028,Associate Professor Emeritus in Pathology
+87,1961.0,,1971.0,naomi.quinn@duke.edu,Naomi Quinn,4474,Professor Emeritus of Cultural Anthropology
+88,,,2005.0,hull@neuro.duke.edu,Court Hull,2536,Assistant Professor of Neurobiology
+89,,,1970.0,kinne001@mc.duke.edu,Thomas Kinney,2913,"Wilburt C. Davison Professor of Pediatrics, in the School of Medicine"
+90,,,2005.0,,Robert Ferguson,1651,Associate Consulting Professor in the Department of Surgery
+91,,,2013.0,tracy.cassagnol@duke.edu,Tracy Cassagnol,893,Consulting Associate in the Department of Community and Family Medicine
+92,,,2012.0,brenda.baletti@duke.edu,Brenda Baletti,276,Lecturing Fellow of Thompson Writing Program
+93,,,1985.0,robert.mellman@duke.edu,Robert Mellman,3689,Consulting Associate in the School of Nursing
+94,,,2001.0,allen.gifford@duke.edu,Allen Gifford,1931,Consulting Associate in the Department of Community and Family Medicine
+95,1971.0,,1974.0,georg008@mc.duke.edu,Jeffrey Georgi,1906,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+96,,,2011.0,jason.extein@duke.edu,Jason Extein,1610,Clinical Associate in the Department of Radiology
+97,2004.0,,2012.0,alessandro.arlotto@duke.edu,Alessandro Arlotto,193,Associate Professor of Business Adminstration
+98,,,2004.0,jeremy.kay@duke.edu,Jeremy Kay,2800,Assistant Professor of Neurobiology
+99,,,2009.0,,Carolyn Avery,237,Assistant Professor of Pediatrics
+100,,,1952.0,j.blum@cellbio.duke.edu,Jacob Blum,535,James B. Duke Professor Emeritus of Medicine
+101,1980.0,,1995.0,manju.puri@duke.edu,Manju Puri,4458,J.B. Fuqua Professor of Business Administration in the Fuqua School of Business
+102,,,1982.0,leo.barber@duke.edu,L. Barber,301,Consulting Associate in the Department of Medicine
+103,,,2012.0,andrada.neacsiu@duke.edu,Andrada Neacsiu,3972,Assistant Professor in Psychiatry and Behavioral Sciences
+104,,,1973.0,,Steven Mahorney,3438,Assistant Consulting Professor of Psychiatry and Behavioral Sciences
+105,1979.0,,1991.0,tdb@duke.edu,Thomas Brothers,703,Professor of Music
+106,1980.0,,1984.0,carol.filomena@duke.edu,Carol Filomena,1680,Associate Professor of Pathology
+107,,,1985.0,bill.adair@duke.edu,Bill Adair,26,Knight Professor of the Practice of Journalism and Public Policy
+108,,,,lemos@law.duke.edu,Margaret Lemos,3206,Robert G. Seaks Professor of Law
+109,,,1980.0,,Dennis Devito,1368,Consulting Associate in the Department of Orthopaedic Surgery
+110,,,1981.0,pkeineg@duke.edu,Paol Keineg,2819,Research Professor Emeritus
+111,,,2004.0,matthew.payne@duke.edu,Mathew Payne,4257,Consulting Associate in the Department of Community and Family Medicine
+112,,,1987.0,adler@law.duke.edu,Matthew Adler,48,Richard A. Horvitz Professor of Law
+113,,,1978.0,mark0004@mc.duke.edu,Daniel Mark,3494,Professor of Medicine
+114,,,1992.0,,William Joyner,2729,Consulting Associate in the Department of Community and Family Medicine
+115,,,2007.0,gentzon.hall@duke.edu,Gentzon Hall,2167,Medical Instructor in the Department of Medicine
+116,,,2003.0,michael.lipkin@duke.edu,Michael Lipkin,3299,Associate Professor of Surgery
+117,1991.0,,1998.0,rampini@duke.edu,Adriano Rampini,4516,John D. Forsyth Professor of Business Administration
+118,1958.0,,1967.0,,Robert Henkens,2346,Associate Professor Emeritus
+119,1993.0,,1997.0,rcd@cs.duke.edu,Robert Duvall,1489,Lecturer in the Department of Computer Science
+120,,,1982.0,,Joseph Halabis,2157,Assistant Consulting Professor in Ophthalmology
+121,,,1997.0,frank.moya@duke.edu,Frank Moya,3896,Assistant Professor of Ophthalmology
+122,,,2006.0,rene.schwendimann@duke.edu,Rene Schwendimann,4942,Consulting Professor in the School of Nursing
+123,1979.0,,,kbradley@law.duke.edu,Kathryn Bradley,634,Professor of the Practice of Law
+124,1982.0,,1988.0,bejsovec@duke.edu,Amy Bejsovec,399,Associate Professor of Biology
+125,,,1983.0,tclark@duke.edu,Thomas Clark,1038,Adjunct Assistant Professor of Pathology
+126,,,2006.0,sujay.kansagra@duke.edu,Sujay Kansagra,2764,Assistant Professor of Pediatrics
+127,2003.0,,2009.0,francesco.bianchi@duke.edu,Francesco Bianchi,488,Associate Professor of Economics
+128,,,2000.0,palme002@mc.duke.edu,Scott Palmer,4164,Professor of Medicine
+129,1970.0,,1974.0,allan.lind@duke.edu,E. Lind,3281,James L. Vincent Professor of Leadership in the Fuqua School of Business
+130,,,2000.0,hashim.al.hashimi@duke.edu,Hashim Al-Hashimi,70,James B. Duke Professor of Biochemistry
+131,,,2013.0,carlotta.pavese@duke.edu,Carlotta Pavese,4252,Assistant Professor of Philosophy
+132,,,2011.0,adam.cole@duke.edu,Adam Cole,1096,Clinical Associate in the Department of Radiology
+133,,,1977.0,rpayne@div.duke.edu,Richard Payne,4258,Esther T. Colliflower Professor of Medicine and Divinity
+134,,,2009.0,corey.bolac@duke.edu,Corey Bolac,549,"Instructor, Medical Center in the Department of Obstetrics and Gynecology"
+135,1989.0,,1993.0,chris.roy@duke.edu,Christopher Roy,4769,Associate Professor of the Practice of Chemistry
+136,,,1996.0,elizabeth.c.long@duke.edu,Elizabeth Long,3341,Instructor in the English for International Students
+137,,,1983.0,,Paul Jowell,2726,Professor of Medicine
+138,,,1962.0,drneelon@ricehouse.org,Francis Neelon,3980,Associate Professor Emeritus of Medicine
+139,,,2007.0,beverly.gray@duke.edu,Beverly Gray,2048,Assistant Professor of Obstetrics and Gynecology
+140,1999.0,,2004.0,,Bentley Coffey,1080,Visiting Assistant Professor in the Social Science Research Institute
+141,1975.0,,1981.0,robert.nau@duke.edu,Robert Nau,3968,Professor of Business Administration
+142,,,1975.0,bonin001@mc.duke.edu,Andrew Bonin,562,Assistant Consulting Professor in Community and Family Medicine
+143,,,1995.0,himabindu.ravi@duke.edu,Himabindu Ravi,4542,Assistant Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+144,,,2006.0,udhayakumar.gopal@duke.edu,Udhayakumar Gopal,2005,Medical Instructor in the Department of Pathology
+145,,,1998.0,dewal001@mc.duke.edu,Tracy DeWald,1372,Assistant Consulting Professor in the Department of Medicine
+146,,,2010.0,nicholas.rudnick@duke.edu,Nicholas Rudnick,4785,Clinical Associate in the Department of Radiology
+147,,,1987.0,crawf036@mc.duke.edu,Lawrence Crawford,1200,Associate Professor of Medicine
+148,1990.0,,1996.0,james.shah@duke.edu,James Shah,4999,Associate Professor of Psychology and Neuroscience
+149,2006.0,,2012.0,diana.leitner@duke.edu,Diana Leitner,3201,Clinical Associate in the Department of Ophthalmology
+150,,,1985.0,susanne.freytag@duke.edu,Susanne Freytag,1792,Visiting Lecturer of Germanic Languages and Literature
+151,,,2000.0,shu.lin@duke.edu,Shu Lin,3277,Associate Professor of Surgery
+152,,,,grace.kim@duke.edu,Grace Kim,2883,Visiting Associate Professor of the Practice  of Economics
+153,,,1991.0,jeles001@mc.duke.edu,Nicole Jelesoff,2638,Assistant Professor of Medicine
+154,,,1996.0,jwowen@duke.edu,Jennifer Owen,4145,"Lecturer, Senior in the Sanford School of Public Policy"
+155,1984.0,,1998.0,schapman@div.duke.edu,Stephen Chapman,928,Associate Professor of Old Testament
+156,,,2006.0,matthew.hirschey@duke.edu,Matthew Hirschey,2394,Associate Professor in Medicine
+157,,,2000.0,claire.mckinleyyoder@duke.edu,Claire McKinley Yoder,3636,"Instructor, Medical Center in the School of Nursing"
+158,,,1991.0,,Mildred McCully,3601,Consulting Associate in the School of Nursing
+159,1983.0,,1990.0,wfmorris@duke.edu,William Morris,3869,Professor of Biology
+160,,,2002.0,hemang.shah@duke.edu,Hemang Shah,4998,Clinical Associate in the Department of Neurology
+161,,,1977.0,rober010@mc.duke.edu,Cary Robertson,4684,Associate Professor of Surgery
+162,,,1994.0,robert.bonnie@duke.edu,Robert Bonnie,568,Rubenstein Fellow of Duke University
+163,,,1990.0,,John Lindenthal,3285,Assistant Consulting Professor in the Department of Anesthesiology
+164,2003.0,,2005.0,ashley.leak@duke.edu,Ashley Leak,3153,"Instructor, Medical Center in the School of Nursing"
+165,,,1996.0,dawso009@mc.duke.edu,Hana Dawson,1298,Adjunct Assistant Professor in the Department of Neurology
+166,,,1999.0,scott.huettel@duke.edu,Scott Huettel,2525,Jerry G. and Patricia Crawford Hubbard Professor
+167,,,1995.0,bastiaan.driehuys@duke.edu,Bastiaan Driehuys,1460,Professor of Radiology
+168,,,1967.0,john.burness@duke.edu,John Burness,780,Visiting Professor of the Practice in the Sanford School of Public Policy
+169,,,2011.0,patrick.magoon@duke.edu,Patrick Magoon,3431,Clinical Associate in the Department of Radiology
+170,,,1997.0,howard.levinson@duke.edu,Howard Levinson,3224,Associate Professor of Surgery
+171,,,2010.0,nora.dennis@duke.edu,Nora Dennis,1344,Assistant Professor of Psychiatry and Behavioral Sciences
+172,,,2008.0,patrick.codd@duke.edu,Patrick Codd,1075,Assistant Professor of Neurosurgery
+173,,,1992.0,dirk.philipsen@duke.edu,Dirk Philipsen,4318,Associate Research Professor in the Sanford School of Public Policy
+174,1974.0,,1979.0,,Robert Bryant,737,Philip Griffiths Professor of Mathematics
+175,,,,sanjay.narayanaswamy@duke.edu,Sanjay Adi,44,Adjunct Associate in the Department of Community and Family Medicine
+176,1953.0,,1962.0,bujones@duke.edu,Buford Jones,2695,Associate Professor Emeritus of English
+177,,,1999.0,,John Sanchez,4835,Consulting Associate in the Department of Community and Family Medicine
+178,,,1991.0,ashle022@mc.duke.edu,Patricia Ashley,213,Assistant Professor of Pediatrics
+179,1964.0,,1970.0,william.obarr@duke.edu,William O'Barr,4064,Professor with Tenure
+180,,,1990.0,garst001@mc.duke.edu,Jennifer Garst,1871,Professor of Medicine
+181,,,1979.0,,Howard Goodman,2001,Assistant Consulting Professor of Obstetrics and Gynecology
+182,,,2004.0,mani.daneshmand@duke.edu,Mani Daneshmand,1262,Assistant Professor of Surgery
+183,1986.0,,1990.0,meri.gilmanmays@duke.edu,Meri Gilman Mays,1943,Consulting Associate in the School of Nursing
+184,2004.0,,2012.0,sid.gospe@duke.edu,Sidney Gospe,2013,Clinical Associate in the Department of Ophthalmology
+185,,,2007.0,naomi.davis@duke.edu,Naomi Davis,1295,Assistant Professor in Psychiatry and Behavioral Sciences
+186,,,1984.0,mtb2@duke.edu,Mark Brown,719,Lecturing Fellow
+187,2002.0,,2012.0,jennifer.plichta@duke.edu,Jennifer Plichta,4357,Assistant Professor of Surgery
+188,1978.0,,1987.0,marc.brettler@duke.edu,Marc Brettler,673,Bernice and Morton Lerner Professor in Judaic Studies
+189,,,2004.0,sharon.rubin@duke.edu,Sharon Rubin,4778,Associate Professor of Medicine
+190,,,1987.0,,Thomas Dalton,1256,Consulting Associate in the Department of Medicine
+191,,,1968.0,hurwi003@mc.duke.edu,Barrie Hurwitz,2550,Associate Professor Emeritus of Medicine
+192,,,2007.0,jaycegetz@gmail.com,Jayce Getz,1920,Assistant Professor in the Department of Mathematics
+193,,,2008.0,adam.mehlenbacher@duke.edu,Adam Mehlenbacher,3679,Consulting Associate in the Department of Surgery
+194,1961.0,,1967.0,francis.lethem@duke.edu,Francis Lethem,3216,Professor of the Practice Emeritus in the Sanford School of Public Policy
+195,,,1992.0,,John Eck,1516,Associate Professor of Anesthesiology
+196,1970.0,,,schmalbeck@law.duke.edu,Richard Schmalbeck,4896,Simpson Thacher and Bartlett Professor of Law
+197,,,1981.0,pisci001@mc.duke.edu,Joanne Piscitelli,4344,Associate Professor of Obstetrics and Gynecology
+198,,,1952.0,joklikb@aol.com,Wolfgang Joklik,2692,James B. Duke Professor Emeritus of Medicine
+199,,,2015.0,sophia.califano@va.gov,Sophia Califano,821,Medical Instructor in the Department of Medicine
+200,,,1991.0,kulminsk@duke.edu,Alexander Kulminski,3049,Associate Research Professor in the Social Science Research Institute
+201,,,2005.0,rose.eapen@duke.edu,Rose Eapen,1503,Assistant Professor of Surgery
+202,,,2012.0,heather.elser@duke.edu,Heather Elser,1563,Consulting Associate in the School of Nursing
+203,1995.0,,1999.0,joshigi@duke.edu,Joshua Gibson,1927,"Associate Professor of the Practice in the Department of Art, Art History & Visual Studies"
+204,,,2009.0,m.mikkelsen@duke.edu,Maiken Mikkelsen,3747,Nortel Networks Assistant Professor of Electrical and Computer Engineering
+205,,,1983.0,robin.turner@duke.edu,Roberta Fillipo,1679,Assistant Professor in the Department of Medicine
+206,,,1998.0,,Liliana Gandini,1853,Consulting Associate in the Department of Surgery
+207,,,1986.0,adeyemi.olufolabi@duke.edu,Adeyemi Olufolabi,4117,Associate Professor of Anesthesiology
+208,,,2008.0,nicolette.cagle@duke.edu,Nicolette Cagle,810,Lecturer in Environmental Science and Policy
+209,,,2002.0,kelli.friedman@duke.edu,Kelli Friedman,1800,Assistant Professor in Psychiatry and Behavioral Sciences
+210,,,2009.0,andrea.goodrich@duke.edu,Andrea Goodrich,2003,Assistant Professor of Anesthesiology
+211,,,2012.0,mattia.begali@duke.edu,Mattia Begali,392,Lecturing Fellow in the Department of Romance Studies
+212,,,1995.0,kathleen.reinsel@duke.edu,Kathleen Reinsel,4598,Visiting Professor in NSOE CSSP Div/MLab All
+213,,,1992.0,william.parker@duke.edu,William Parker,4203,Associate Professor of Surgery
+214,,,1996.0,tim.donahue@duke.edu,Timothy Donahue,1425,Assistant Professor of Medicine
+215,,,2004.0,kielmanovich@law.duke.edu,Sebastian Kielmanovich,2877,Senior Lecturing Fellow of Law
+216,1963.0,,1969.0,reed@math.duke.edu,Michael Reed,4569,Professor of Mathematics
+217,2008.0,,2016.0,sarah.komisarow@duke.edu,Sarah Komisarow,2976,Assistant Professor in the Sanford School of Public Policy
+218,,,,maryann.black@duke.edu,Mary Ann Black,501,Consulting Associate in Psychiatric Social Work in the Department of Psychiatry and Behavioral Sciences
+219,,,2000.0,purnima.shah@duke.edu,Purnima Shah,5003,Associate Professor of the Practice of Dance
+220,,,1994.0,,Sanjay Batish,354,Consulting Associate in the Department of Community and Family Medicine
+221,,,1985.0,edward.g.sanders@duke.edu,Edward Sanders,4840,Assistant Clinical Professor of Anesthesiology
+222,,,1965.0,cookiem4@aol.com,Alvin Hartness,2255,Assistant Consulting Professor in the Department of Pediatrics
+223,,,1961.0,geompadilla@gmail.com,George Padilla,4155,Professor Emeritus of Cell Biology
+224,1989.0,,1993.0,tariq.bhatti@duke.edu,M. Bhatti,486,Professor of Ophthalmology
+225,2001.0,,2006.0,vanessa.teaberry@duke.edu,Vanessa Schroder,4924,Assistant Professor of Surgery
+226,,,1997.0,johns196@mc.duke.edu,Kimberly Johnson,2677,Associate Professor of Medicine
+227,,,1987.0,koval001@mc.duke.edu,Eugene Kovalik,3002,Associate Professor of Medicine
+228,,,1984.0,,Laura Schanberg,4884,Professor of Pediatrics
+229,,,2004.0,yuliya.lokhnygina@duke.edu,Yuliya Lokhnygina,3335,Assistant Professor of Biostatistics and Bioinformatics
+230,1973.0,,1980.0,linda.bergstrom@duke.edu,Linda Bergstrom,453,Adjunct Assistant Professor in the School of Nursing
+231,,,2002.0,christina.anderson2@duke.edu,Christina Anderson,140,Consulting Associate in the Department of Community and Family Medicine
+232,,,2000.0,sari.palmroth@duke.edu,Sari Palmroth,4171,Associate Research Professor in the Division of Environmental Science and Policy
+233,,,1999.0,sandeep.dave@duke.edu,Sandeep Dave,1280,Professor of Medicine
+234,1987.0,,1999.0,yonghui.jiang@duke.edu,Yong-Hui Jiang,2657,Associate Professor of Pediatrics
+235,,,,,Ehud Guttel,2136,Visiting Professor of Law
+236,1977.0,,1988.0,garci001@mc.duke.edu,Mariano Garcia-Blanco,1862,Charles D. Watts Professor of Molecular Genetics and Microbiology
+237,,,1996.0,matsu004@mc.duke.edu,Hiroaki Matsunami,3542,Professor of Molecular Genetics and Microbiology
+238,1965.0,,1973.0,mquillig@duke.edu,Maureen Quilligan,4473,R. Florence Brinkley Professor Emerita of English
+239,,,,kristen.paral@duke.edu,Kristen Paral,4185,Assistant Professor of Pathology
+240,1990.0,,2003.0,chad.cook@dm.duke.edu,Chad Cook,1139,Professor of Orthopaedic Surgery
+241,1962.0,,1967.0,rbarber@duke.edu,Richard Barber,303,Harvey W. Smith Professor Emeritus of Biological Oceanography in the Division of Earth and Ocean Sciences
+242,,,1989.0,,Keyur Patel,4226,Adjunct Associate Professor in the Department of Medicine
+243,,,2007.0,msk37@dm.duke.edu,Matthew Kelly,2836,Assistant Professor of Pediatrics
+244,2004.0,,2014.0,jillian.popadak@duke.edu,Jillian Popadak,4378,Assistant Professor of Business Administration
+245,,,1990.0,,Dean Ouano,4142,Consulting Associate in the Department of Ophthalmology
+246,,,1995.0,r.dash@duke.edu,Rajesh Dash,1272,Professor of Pathology
+247,,,2011.0,gdk@cs.duke.edu,George Konidaris,2980,Adjunct Assistant Professor of Computer Science
+248,,,1977.0,fulke003@mc.duke.edu,William Fulkerson,1812,Professor of Medicine
+249,1971.0,,1977.0,jradway@duke.edu,Janice Radway,4488,Professor Emeritus of Literature
+250,,,2003.0,william.pan@duke.edu,William Pan,4175,Assistant Professor of Global Environmental Health
+251,,,2010.0,,Steven Pattishall,4243,Consulting Associate in the Department of Pediatrics
+252,,,2009.0,jennifer.gilner@duke.edu,Jennifer Gilner,1945,Assistant Professor of Obstetrics and Gynecology
+253,,,2001.0,harry.enderlin@duke.edu,Harry Enderlin,1568,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+254,1994.0,,2000.0,otis.jennings@duke.edu,Otis Jennings,2643,Adjunct Associate Professor
+255,,,1996.0,kathryn.pollak@duke.edu,Kathryn Pollak,4371,Professor in Community and Family Medicine
+256,,,1995.0,brumb001@mc.duke.edu,Heather Brumbaugh,729,Clinical Associate in the School of Nursing
+257,,,2010.0,andrea.scapolo@duke.edu,Andrea Scapolo,4874,Lecturing Fellow of Romance Studies
+258,,,,aino.levonmaa@duke.edu,Aino Levonmaa,3225,Assistant Professor of the Practice of Economics
+259,1976.0,,,metzloff@law.duke.edu,Thomas Metzloff,3723,Professor of Law
+260,,,1993.0,joseph.donahue@duke.edu,Joseph Donahue,1423,Helen L. Bevington Professor of the Practice of Modern Poetry
+261,1984.0,,1993.0,,Lori Setton,4984,Adjunct Professor of Biomedical Engineering
+262,1973.0,,1981.0,pbaker@duke.edu,Paul Baker,269,Professor of Earth and Ocean Sciences in the Nicholas School of the Environment
+263,,,1991.0,thomas.cummings@duke.edu,Thomas Cummings,1230,Professor of Pathology
+264,,,2009.0,ana.buck@duke.edu,Ana Buck,745,Clinical Associate in the Department of Obstetrics and Gynecology
+265,,,2006.0,thomas.newpher@duke.edu,Thomas Newpher,4006,Instructor in the Duke Institute for Brain Sciences
+266,1979.0,,1984.0,saper@math.duke.edu,Leslie Saper,4852,Professor of Mathematics
+267,,,2005.0,tianshu.he@duke.edu,Tianshu He,2299,Lecturer in the Department of Asian and Middle Eastern S
+268,,,1989.0,rodger@cs.duke.edu,Susan Rodger,4702,Professor of the Practice in the Department of Computer Science
+269,,,1993.0,john.h.alexander@duke.edu,John Alexander,84,Professor of Medicine
+270,,,1999.0,lisa.day@duke.edu,Lisa Day,1305,Associate Professor in the School of Nursing
+271,,,1981.0,vkeason@duke.edu,Vickie Eason,1508,Instructor of Biology
+272,,,1990.0,selim001@mc.duke.edu,Maria Selim,4970,Professor of Pathology
+273,,,1990.0,michael.matela@duke.edu,Michael Matela,3531,Consulting Associate in the Department of Community and Family Medicine
+274,,,1983.0,john.schmitt@duke.edu,John Schmitt,4904,Professor of Obstetrics and Gynecology
+275,,,1983.0,,Marc Finkel,1681,Assistant Consulting Professor in the Department of Radiology
+276,,,2001.0,keir0001@mc.duke.edu,Stephen Keir,2820,Professor in Neurosurgery
+277,,,1986.0,paolo.mannelli@duke.edu,Paolo Mannelli,3473,Associate Professor of Psychiatry and Behavioral Sciences
+278,1977.0,,1984.0,terrie.moffitt@duke.edu,Terrie Moffitt,3808,Nannerl O. Keohane University Professor
+279,,,1981.0,rbach@soc.duke.edu,Rebecca Bach,246,Associate Professor of the Practice in the Department of Sociology
+280,,,1982.0,almek002@mc.duke.edu,Louis Almekinders,110,Professor of Orthopaedic Surgery
+281,,,1989.0,cynthia.jackson@quintiles.com,Cynthia Jackson-DiLiberti,2601,Assistant Consulting Professor in the Department of Pediatrics
+282,,,2000.0,william.gallentine@duke.edu,William Gallentine,1846,Associate Professor of Pediatrics
+283,1967.0,,1969.0,lisa.gwyther@duke.edu,Lisa Gwyther,2142,Associate Professor in Psychiatry and Behavioral Sciences
+284,,,1996.0,miriam.ehrensaft@duke.edu,Miriam Ehrensaft,1540,Associate Professor in Psychiatry and Behavioral Sciences
+285,,,2007.0,maria.ciofani@duke.edu,Maria Ciofani,1032,Assistant Professor of Immunology
+286,1980.0,,1986.0,david.beratan@duke.edu,David Beratan,441,R.J. Reynolds Professor of Chemistry
+287,,,1985.0,kishn001@mc.duke.edu,Priya Kishnani,2927,Chen Family Professor of Pediatrics
+288,1951.0,,1963.0,,Jacqueline Reynolds,4617,Professor Emeritus
+289,,,2007.0,j.seigel@duke.edu,Jonathan Seigel,4968,Adjunct Associate in the Department of Pediatrics
+290,,,2006.0,hanks004@mc.duke.edu,Brent Hanks,2205,Assistant Professor of Medicine
+291,,,1983.0,,Mindy Reynolds,4622,Consulting Associate in the School of Nursing
+292,,,2011.0,abby.abisogun@duke.edu,Abby Abisogun,16,Clinical Associate in the Department of Medicine
+293,,,1981.0,wmatthew@duke.edu,William Matthew,3544,Adjunct Professor in the Department of Neurology
+294,,,2000.0,kaul0002@mc.duke.edu,Padmaja Kaul,2793,Adjunct Assistant Professor in the Department of Medicine
+295,1983.0,,1989.0,qhliu@duke.edu,Qing Liu,3316,Professor of Electrical and Computer Engineering
+296,,,,maher@law.duke.edu,Jennifer Maher,3434,"Lecturing Fellow, Senior in Law - Office of Dean"
+297,,,1994.0,melvania.briggs@duke.edu,Melvania Briggs,680,Consulting Associate in the School of Nursing
+298,1992.0,,1997.0,shakeeb.khan@duke.edu,Shakeeb Khan,2866,Professor of Economics
+299,1967.0,,,,Syed Ahmed,60,Assistant Consulting Professor in the Department of Medicine
+300,,,,magdalena.perez.vicente@duke.edu,Magdalena Perez Vicente,4284,"Instructor, Special Programs"
+301,,,1958.0,eric@psych.duke.edu,Robert Erickson,1587,Professor Emeritus of Psychology: Experimental
+302,,,2005.0,jeffrey.guptill@duke.edu,Jeffrey Guptill,2126,Associate Professor of Neurology
+303,,,2007.0,deverick.anderson@duke.edu,Deverick Anderson,141,Associate Professor of Medicine
+304,,,1999.0,trey.blazer@duke.edu,Dan Blazer,518,Associate Professor of Surgery
+305,,,1993.0,gaby@duke.edu,Gabriel Katul,2783,Theodore S. Coile Professor of Hydrology and Micrometeorology
+306,,,1965.0,gpderosa@abos.org,G. DeRosa,1352,Clinical Professor Emeritus of Surgery
+307,,,2009.0,desiree.plata@duke.edu,Desiree Plata,4353,Adjunct Assistant Professor in the Department of Civil and Environmental Engineering
+308,,,1971.0,,Mary Cole,1099,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+309,,,2016.0,tavis.abrahamsen@duke.edu,Tavis Abrahamsen,22,Visiting Assistant Professor of Statistical Science
+310,,,1992.0,fernando.gonzalez@duke.edu,Luis Gonzalez,1994,Associate Professor of Neurosurgery
+311,,,2000.0,abigail.melnick@duke.edu,Abigail Melnick,3691,Assistant Professor of Anesthesiology
+312,,,1987.0,butte001@mc.duke.edu,David Butterly,798,Associate Professor of Medicine
+313,,,1970.0,,Howard Loughlin,3357,Associate Consulting Professor in the Department of Pediatrics
+314,,,1961.0,marti035@mc.duke.edu,Salutario Martinez,3516,Professor of Radiology
+315,,,1978.0,,Margaret Hassett,2265,Assistant Professor of Medicine
+316,1967.0,,1971.0,rohde@duke.edu,David Rohde,4716,Ernestine Friedl Professor of Political Science in Trinity College of Arts and Sciences
+317,,,1994.0,carte013@mc.duke.edu,James Carter,876,Assistant Professor of Neurosurgery
+318,,,1988.0,dhicks@duke.edu,Deborah Hicks,2372,Adjunct Instructor of Education
+319,,,,mac.mccorkle@duke.edu,Pope McCorkle,3592,Associate Professor of the Practice in the Sanford School of Public Policy
+320,,,1992.0,colleen.ramsey@duke.edu,Colleen Ramsey,4518,Consulting Associate in the Department of Medicine
+321,,,1973.0,david.ota@duke.edu,David Ota,4141,Professor of Surgery
+322,,,1975.0,carol@duke.edu,Carol Meyers,3728,Mary Grace Wilson Professor of Religion in Trinity College of Arts and Sciences
+323,,,,michaels@law.duke.edu,Ralf Michaels,3734,Arthur Larson Professor of Law
+324,,,1985.0,freed003@mc.duke.edu,Sharon Freedman,1784,Professor of Ophthalmology
+325,,,1996.0,calhoun.cunningham@duke.edu,Calhoun Cunningham,1231,Assistant Professor of Surgery
+326,,,1995.0,michael.bergin@duke.edu,Michael Bergin,450,Professor in the Department of Civil and Environmental Engineering
+327,,,1984.0,richard.noble@duke.edu,Richard Noble,4038,Consulting Associate in the Department of Medicine
+328,,,,donald.sanders@duke.edu,Donald Sanders,4839,Professor of Neurology
+329,,,2009.0,stefano.ditalia@duke.edu,Stefano Di Talia,1377,Assistant Professor of Cell Biology
+330,,,1980.0,bill.evans@duke.edu,William Evans,1601,Adjunct Professor in the Department of Medicine
+331,1994.0,,2001.0,amink@cs.duke.edu,Alexander Hartemink,2252,Professor in the Department of Computer Science
+332,,,1990.0,kenneth.ellington@duke.edu,Kenneth Ellington,1553,Assistant Professor of Pathology
+333,,,1989.0,,Mark Malias,3454,Consulting Associate in the Department of Surgery
+334,,,2005.0,brewster@law.duke.edu,Rachel Brewster,675,Professor of Law
+335,1974.0,,1981.0,trobish@duke.edu,Thomas Robisheaux,4696,Professor of History
+336,1991.0,,1997.0,cummer@duke.edu,Steven Cummer,1226,Professor of Electrical and Computer Engineering
+337,,,1984.0,ragazzo@law.duke.edu,Joann Ragazzo,4490,Clinical Professor of Law (Teaching)
+338,,,2010.0,ramiro.maddenfuentes@duke.edu,Ramiro Madden-Fuentes,3423,Clinical Associate in the Department of Surgery
+339,1990.0,,1997.0,subhrendu.pattanayak@duke.edu,Subhrendu Pattanayak,4241,Professor in the Sanford School of Public Policy
+340,,,1996.0,mruth001@mc.duke.edu,Prithvi Mruthyunjaya,3898,Adjunct Associate Professor in the Department of Ophthalmology
+341,,,2011.0,benjamin.godwin@duke.edu,Benjamin Godwin,1967,Clinical Associate in the Department of Radiology
+342,,,2003.0,melissa.reed@duke.edu,Melissa Reed,4568,Consulting Associate in the Department of Community and Family Medicine
+343,1972.0,,1980.0,hotz@econ.duke.edu,V. Hotz,2485,Arts and Sciences Professor of Economics
+344,,,,scott.ellis@duke.edu,Scott Ellis,1559,Instructional Staff of Program in Education
+345,,,2009.0,,Laura Doss,1443,Clinical Associate in the Department of Medicine
+346,,,2008.0,wanda.lakey@duke.edu,Wanda Lakey,3087,Assistant Professor of Medicine
+347,,,1987.0,christopher.nicchitta@duke.edu,Christopher Nicchitta,4013,Professor of Cell Biology
+348,,,1977.0,peter.perault@duke.edu,Peter Perault,4280,Consulting Associate in Psychiatry and Behavioral Sciences
+349,,,2000.0,sarah.c.armstrong@duke.edu,Sarah Armstrong,200,Associate Professor of Pediatrics
+350,,,1989.0,patel003@mc.duke.edu,Dhavalkumar Patel,4224,Associate Consulting Professor in the Department of Medicine
+351,,,2015.0,menghuan.li@duke.edu,Menghuan Li,3250,Instructor in the Department of Asian and Middle Eastern Studies
+352,,,1998.0,robin.hardiehood@duke.edu,Robin Hardie-Hood,2213,Clinical Associate in the Department of Medicine
+353,1990.0,,1996.0,mkris@email.unc.edu,Michael Kris,3025,"Lecturer, Part-time of Music"
+354,1968.0,,1971.0,sandra.bigner@duke.edu,Sandra Bigner,496,Professor Emeritus of Pathology
+355,,,1986.0,neal.ready@duke.edu,Neal Ready,4555,Professor of Medicine
+356,,,1985.0,neil.freedman@duke.edu,Neil Freedman,1782,Associate Professor of Medicine
+357,1987.0,,1993.0,hans.martin.boehmer@duke.edu,Hans-Martin Boehmer,544,Visiting Professor of the Practice in the Sanford School of Public Policy
+358,,,1961.0,jafduke@aol.com,John Feagin,1633,Associate Professor Emeritus of Surgery
+359,,,1985.0,scott.denardo@duke.edu,Scott Denardo,1340,Associate Professor of Medicine
+360,,,1993.0,alkha001@mc.duke.edu,Sana Al-Khatib,73,Professor of Medicine
+361,,,2010.0,jennifer.runnals@duke.edu,Jennifer Runnals,4792,Medical Instructor in the Department of Psychiatry and Behavioral Sciences
+362,,,1979.0,pater001@mc.duke.edu,Robert Paterson,4235,Assistant Professor of Medicine
+363,,,1968.0,bsm@mittlerlaw.com,Brant Mittler,3798,Assistant Consulting Professor in the Department of Medicine
+364,,,2000.0,hailiang.hu@duke.edu,Hailiang Hu,2504,Assistant Professor of Pathology
+365,,,2000.0,jacks121@mc.duke.edu,Kevin Jackson,2598,Assistant Professor of Medicine
+366,,,2009.0,monica.lemmon@duke.edu,Monica Lemmon,3205,Assistant Professor of Pediatrics
+367,,,2005.0,candice.odgers@duke.edu,Candice Odgers,4089,Professor in the Sanford School of Public Policy
+368,,,1972.0,kenneth.morris@duke.edu,Kenneth Morris,3867,Associate Professor of Medicine
+369,,,2012.0,daniel.belsky@duke.edu,Daniel Belsky,412,Assistant Professor in Medicine
+370,,,1983.0,,Robert Pearlstein,4260,Assistant Professor of Neurosurgery
+371,,,1999.0,seh.hoon.oh@duke.edu,Seh Hoon Oh,4096,Assistant Professor in Medicine
+372,,,1981.0,peter.bressler@duke.edu,Peter Bressler,671,Associate Consulting Professor in the Department of Medicine
+373,,,1977.0,jeffrey.everitt@duke.edu,Jeffrey Everitt,1604,Professor Track - V in Pathology
+374,,,1997.0,thomas.becker@duke.edu,Thomas Becker,380,Assistant Professor in Medicine
+375,,,1996.0,,Salim Idriss,2569,Associate Professor of Pediatrics
+376,,,2008.0,natasha.cunningham@duke.edu,Natasha Cunningham,1235,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+377,,,2007.0,verena.m@duke.edu,Verena Mösenbichler-Bryant,3876,Assistant Professor of the Practice in the Department of Music
+378,,,1994.0,azhar@cs.duke.edu,Salman Azhar,241,Visiting Associate Professor of Computer Science
+379,,,1999.0,john.nelson@duke.edu,John Nelson,3988,Clinical Associate in the Department of Radiation Oncology
+380,,,,harre002@mc.duke.edu,Frank Harrell,2228,Adjunct Professor of Biostatistics and Bioinformatics
+381,,,2013.0,,Matthew Masten,3528,Assistant Professor of Economics
+382,,,1975.0,burde.kamath@duke.edu,Burde Kamath,2753,Adjunct Assistant Professor in the Department of Medicine
+383,,,2007.0,krista.konrad@duke.edu,Krista Ingle,2576,Assistant Professor in Psychiatry and Behavioral Sciences
+384,,,2007.0,agostino.migliore@duke.edu,Agostino Migliore,3742,Assistant Research Professor in the Department of Chemistry
+385,1997.0,,2004.0,amy.schmid@duke.edu,Amy Schmid,4897,Assistant Professor of Biology
+386,,,1990.0,kathy.psomiades@duke.edu,Kathy Psomiades,4448,Associate Professor of English
+387,,,1969.0,philip.blatt@duke.edu,Philip Blatt,516,Adjunct Associate Professor in the Department of Medicine
+388,,,2011.0,ricardo.henao@duke.edu,Ricardo Henao,2337,Assistant Research Professor in the Department of Electrical and Computer Engineering
+389,,,2009.0,omar.mohamedaly@duke.edu,Omar Mohamedaly,3809,Assistant Professor of Medicine
+390,,,1970.0,vmudimbe@duke.edu,Valentin Mudimbe,3902,"Newman Ivey White Professor of Literature, in Trinity College of Arts and Sciences"
+391,,,2012.0,bora.keskin@duke.edu,Nuri Bora Keskin,2858,Assistant Professor of Business Administration
+392,1970.0,,1975.0,tracy.lewis@duke.edu,Tracy Lewis,3238,"Martin L. Black, Jr. Professor of Business Administration in Fuqua School of Business"
+393,,,2006.0,olivier.delaire@duke.edu,Olivier Delaire,1328,Associate Professor of Mechanical Engineering and Materials Science
+394,,,2009.0,psbarbeau@phy.duke.edu,Phillip Barbeau,299,Assistant Professor of Physics
+395,1974.0,,1985.0,phh@law.duke.edu,Paul Haagen,2143,Professor of Law
+396,,,2014.0,sarah.orourke@duke.edu,Sarah O'Rourke,4083,Medical Instructor in the Department of Psychiatry and Behavioral Sciences
+397,,,1973.0,a.mukhin@duke.edu,Alexey Mukhin,3912,Professor of Psychiatry and Behavioral Sciences
+398,,,2010.0,amy.humphrey@duke.edu,Amy Humphrey,2539,"Instructor, Medical Center in the School of Nursing"
+399,,,1985.0,jseaber@nc.rr.com,Judy Seaber,4956,Clinical Professor Emeritus of Ophthalmology
+400,,,1973.0,bruce.browner@duke.edu,Bruce Browner,725,Adjunct Professor of Orthopaedics
+401,,,2006.0,david.ming@duke.edu,David Ming,3780,Assistant Professor of Medicine
+402,,,2007.0,,Juliessa Pavon,4255,Assistant Professor of Medicine
+403,,,1981.0,jcostell@psych.mc.duke.edu,Elizabeth Costello,1169,Professor of Psychiatry and Behavioral Sciences
+404,,,2004.0,,Janet Best,471,Visiting Associate Professor of Mathematics
+405,1986.0,,1996.0,richard.rosa@duke.edu,Richard Rosa,4730,Associate Professor of Romance Studies
+406,1982.0,,1988.0,xdong@duke.edu,Xinnian Dong,1429,Arts and Sciences Professor of Biology in the Trinity College of Arts and Sciences
+407,,,1990.0,dennis.clements@duke.edu,Dennis Clements,1056,Professor of Pediatrics
+408,,,1983.0,richa052@mc.duke.edu,Jan Richardson,4642,Professor of Practice Emeritus in Orthopaedic Surgery
+409,,,2009.0,alexander.grabner@duke.edu,Alexander Grabner,2022,Medical Instructor in the Department of Medicine
+410,1979.0,,1999.0,bill.seaman@duke.edu,William Seaman,4958,"Professor of Art, Art History and Visual Studies"
+411,,,2010.0,walson.metzger@duke.edu,Walson Metzger,3722,Clinical Associate in the Department of Radiology
+412,,,1986.0,neeraj.agrawal@duke.edu,Neeraj Agrawal,53,Clinical Associate in the Department of Medicine
+413,1987.0,,1995.0,iversen@duke.edu,Edwin Iversen,2590,Associate Research Professor of Statistical Science
+414,,,1975.0,jhd@ee.duke.edu,Jeffrey Derby,1349,Adjunct Professor of Electrical and Computer Engineering
+415,,,1990.0,elizabeth.reap@duke.edu,Elizabeth Reap,4556,Assistant Professor of Neurosurgery
+416,,,2009.0,bruce.derrick@duke.edu,Bruce Derrick,1355,Assistant Professor of Surgery
+417,2001.0,,2012.0,lisaacowan@gmail.com,Lisa Cowan,1178,Clinical Associate in the Department of Ophthalmology
+418,,,2009.0,mira.brancu@duke.edu,Mira Brancu,647,Associate Professor in Psychiatry and Behavioral Sciences
+419,,,1985.0,richard.kennedy@duke.edu,Richard Kennedy,2845,Consulting Associate in Community and Family Medicine
+420,1979.0,,1986.0,layton@math.duke.edu,Harold Layton,3150,Professor of Mathematics
+421,,,2009.0,christopher.gratian@duke.edu,Christopher Gratian,2044,Clinical Associate in the Department of Anesthesiology
+422,,,,jungsang@ee.duke.edu,Jungsang Kim,2890,Professor in the Department of Electrical and Computer Engineering
+423,,,1993.0,cjones@law.duke.edu,Colin Jones,2697,Visiting Professor of Law
+424,,,1989.0,sgunter@div.duke.edu,William Gunter,2119,Research Professor of Evangelism and Wesleyan Studies
+425,,,2006.0,kristen.clarey@duke.edu,Kristen Clarey,1037,Clinical Associate in the Department of Community and Family Medicine
+426,,,1998.0,jeffrey.bytomski@duke.edu,Jeffrey Bytomski,807,Associate Professor in Community and Family Medicine
+427,,,1968.0,anthony.brown@duke.edu,Anthony Brown,708,Professor of the Practice in the Sanford School of Public Policy
+428,,,1989.0,david.kroll@duke.edu,David Kroll,3030,Adjunct Associate Professor in the Department of Medicine
+429,,,2009.0,lawrence.ku@duke.edu,Lawrence Ku,3038,Assistant Professor of Pediatrics
+430,,,1974.0,juanjotalertora@yahoo.com,Juan Lertora,3214,Adjunct Professor in the Department of Medicine
+431,1989.0,,1999.0,leslie.bronner@duke.edu,Leslie Bronner,692,Assistant Professor of Psychiatry and Behavioral Sciences
+432,,,1992.0,ola@cs.duke.edu,Owen Astrachan,222,Professor of the Practice of Computer Science
+433,,,1999.0,,Rachel Adcock,39,Associate Professor of Psychiatry and Behavioral Sciences
+434,,,2004.0,demeritt@law.duke.edu,S. Hannah Demeritt,1337,Clinical Professor of Law (Teaching)
+435,,,2013.0,jessica.schwartz@duke.edu,Jessica Schwartz,4938,Clinical Associate in the Department of Pediatrics
+436,,,1981.0,mustafa.husain@duke.edu,Mustafa Husain,2553,Adjunct Professor in the Department of Psychiatry and Behavioral Sciences
+437,,,2011.0,elizabeth.nichols@duke.edu,Elizabeth Nichols,4016,Clinical Associate in the Department of Anesthesiology
+438,,,1986.0,dmiralles@trimeris.com,G. Miralles,3782,Assistant Consulting Professor in the Department of Medicine
+439,,,1991.0,hernd012@mc.duke.edu,Leon Herndon,2358,Professor of Ophthalmology
+440,,,1997.0,adrian.hernandez@duke.edu,Adrian Hernandez,2356,Professor of Medicine
+441,,,1996.0,jaffe002@mc.duke.edu,Tracy Jaffe,2608,Associate Professor of Radiology
+442,,,1956.0,jcgunn@mindspring.com,J. Gunnells,2116,Professor Emeritus of Medicine
+443,1985.0,,1989.0,lcarin@ee.duke.edu,Lawrence Carin,854,Professor of Electrical and Computer Engineering
+444,,,2015.0,thomas.farrer@duke.edu,Thomas Farrer,1625,Clinical Associate in the Department of Psychiatry and Behavioral Sciences
+445,1985.0,,1990.0,david.mitzi@duke.edu,David Mitzi,3799,Simon Family Professor
+446,,,1986.0,,Tina Alster,118,Consulting Associate in the Department of Dermatology
+447,,,1998.0,michael.feiler@duke.edu,Michael Feiler,1638,Assistant Professor of Medicine
+448,,,1987.0,keithdear4@gmail.com,Keith Dear,1319,Research Professor of Global Health
+449,,,1982.0,,Paul Conkling,1129,Consulting Associate in the Department of Medicine
+450,,,2016.0,marion.quirici@duke.edu,Marion Quirici,4476,Lecturing Fellow of Thompson Writing Program
+451,,,1999.0,erik.hauck@duke.edu,Erik Hauck,2269,Assistant Professor of Neurosurgery
+452,,,1994.0,maria.rapoza@duke.edu,Maria Rapoza,4536,Assistant Professor in Medicine
+453,,,2014.0,susan.emmett@duke.edu,Susan Emmett,1567,Assistant Professor of Surgery
+454,,,,,Joyce Copeland,1155,Associate Professor in Community and Family Medicine
+455,,,1958.0,harvey.sage@duke.edu,Harvey Sage,4813,Associate Professor Emeritus of Biochemistry
+456,,,2005.0,xinli.ece@duke.edu,Xin Li,3256,Professor in the Department of Electrical and Computer Engineering
+457,,,1991.0,,Ashutosh Chilkoti,979,Alan L. Kaganov Professor of Biomedical Engineering
+458,,,2004.0,christina.barkauskas@duke.edu,Christina Barkauskas,311,Assistant Professor of Medicine
+459,1987.0,,1996.0,j.liu@duke.edu,Jie Liu,3313,George Barth Geller Professor of Chemistry in Trinity College of Arts and Sciences
+460,,,,,Muki Fairchild,1615,Consulting Associate of Psychiatry and Behavioral Sciences
+461,,,2003.0,eric.poon@duke.edu,Eric Poon,4377,Professor of Medicine
+462,,,2006.0,veena.raman@duke.edu,Veena Raman,4507,Adjunct Professor of Business Adminstration
+463,,,1968.0,carl.ravin@duke.edu,Carl Ravin,4543,Professor of Radiology
+464,,,2007.0,,Christina Beck,375,Consulting Associate in the Department of Community and Family Medicine
+465,1982.0,,1988.0,psk9@duke.edu,Prasad Kasibhatla,2779,Professor in the Division of Environmental Sciences and Policy
+466,,,1988.0,robin.gurwitch@duke.edu,Robin Gurwitch,2130,Professor in Psychiatry and Behavioral Sciences
+467,,,,,Carolyn Keeler,2809,Assistant Professor of Neurosurgery
+468,,,1994.0,caroline.kramer@duke.edu,Caroline Kramer,3010,Consulting Associate in the Department of Community and Family Medicine
+469,,,2011.0,alan.jose@duke.edu,Alan Jose Valenzuela,2721,Visiting Research Scholar of Romance Studies
+470,,,1991.0,bruce.kowalski@duke.edu,Bruce Kowalski,3005,Clinical Associate in the Department of Medicine
+471,,,1995.0,eric.kirchmann@duke.edu,Eric Kirchmann,2921,Assistant Professor of Psychiatry and Behavioral Sciences
+472,,,1991.0,chen0032@mc.duke.edu,Jun Chen,955,Associate Professor of Medicine
+473,,,2013.0,allen003@mc.duke.edu,Nancy Allen LaPointe,93,Adjunct Associate Professor in the Department of Medicine
+474,,,2006.0,basil.nasir@duke.edu,Basil Nasir,3966,Clinical Associate in the Department of Surgery
+475,,,1997.0,vaidehi.boinapally@duke.edu,Vaidehi Boinapally,548,Consulting Associate in the Department of Medicine
+476,,,1978.0,,James Mundell,3919,Adjunct Associate Professor in the Pratt School of Engineering
+477,1960.0,,1968.0,gdav@duke.edu,N. Davis,1294,Andrew W. Mellon Research Professor of Humanities
+478,1992.0,,2006.0,karin.reuterrice@duke.edu,Karin Reuter Rice,4615,Associate Professor in the School of Nursing
+479,,,1983.0,j.p.middleton@duke.edu,John Middleton,3738,Associate Professor of Medicine
+480,1986.0,,2000.0,engseng.ho@duke.edu,Engseng Ho,2395,Professor of Cultural Anthropology
+481,,,1997.0,jaybirdandronicus@gmail.com,Jaybird O'berski,4065,Assistant Professor of the Practice in the Department of Theater Studies
+482,1978.0,,1982.0,aec29@tunl.duke.edu,Arthur Champagne,913,Adjunct Professor of Physics
+483,1969.0,,1974.0,,William Pardon,4187,Professor of Mathematics
+484,,,1982.0,linda.leithe@duke.edu,Linda Leithe,3199,Associate Professor of Radiology
+485,1985.0,,,psa@cgtp.duke.edu,Paul Aspinwall,219,Professor of Mathematics
+486,,,1992.0,kamlesh.athavale@duke.edu,Kamlesh Athavale,223,Assistant Professor of Pediatrics
+487,,,1990.0,arthur.moseley@duke.edu,Martin Moseley,3875,Associate Professor of Medicine
+488,,,2007.0,larry.jackson@duke.edu,Larry Jackson,2594,Medical Instructor in the Department of Medicine
+489,,,1995.0,dainotto@duke.edu,Roberto Dainotto,1253,Professor of Romance Studies
+490,1999.0,,2009.0,minna.romano@duke.edu,Minna Moreira Dias Romano,3847,Visiting Research Scholar in the Department of Cardiology
+491,,,1954.0,,James Jones,2700,Associate Professor Emeritus of Psychiatry and Behavioral Sciences
+492,1963.0,,1968.0,jramus@duke.edu,Joseph Ramus,4519,Professor Emeritus
+493,,,1961.0,hammo005@mc.duke.edu,Charles Hammond,2195,E. C. Hamblen Professor Emeritus of Reproductive Biology and Family Planning
+494,,,1973.0,rbeason@law.duke.edu,Robert Beason,372,Senior Lecturing Fellow
+495,1963.0,,1968.0,petroski@duke.edu,Henry Petroski,4309,Aleksandar S. Vesic Professor of Civil Engineering
+496,,,1972.0,jhr@duke.edu,Jane Raimi,4498,Professor Of Practice
+497,,,2006.0,sireesha.datla@duke.edu,Sireesha Datla,1273,Clinical Associate in the Department of Medicine
+498,,,1994.0,ferra005@mc.duke.edu,Lisa Ferrari,1663,Consulting Associate in the Department of Pediatrics
+499,,,1992.0,lileking@law.duke.edu,Phyllis Lile-King,3269,Senior Lecturing Fellow of Law
+500,,,1965.0,drjimding@aol.com,James Dingfelder,1404,Assistant Consulting Professor of Obstetrics and Gynecology
+501,1985.0,,1993.0,mark.mcclellan@duke.edu,Mark McClellan,3585,Professor of the Practiceof Business Adminstration
+502,,,1973.0,kaufm001@duke.edu,Russel Kaufman,2790,Professor Emeritus of Medicine
+503,,,2000.0,seth.cohen@duke.edu,Seth Cohen,1091,Associate Professor of Surgery
+504,1971.0,,1983.0,glenday@duke.edu,Graham Glenday,1958,Professor of the Practice of Public Policy in the Sanford School of Public Policy
+505,1966.0,,1968.0,lizandjimmy@nc.rr.com,Jimmy Gilmore,1944,"Lecturer, Part-time of Music"
+506,,,1989.0,bmm@cs.duke.edu,Bruce Maggs,3428,Pelham Wilder Professor of Computer Science
+507,,,2000.0,sarah.p.russell@duke.edu,Sarah Russell,4798,Adjunct Instructor of International Comparative Studies
+508,,,1994.0,adam.perlman@duke.edu,Adam Perlman,4289,Adjunct Associate Professor in the Department of Medicine
+509,1989.0,,1995.0,nimmi.ramanujam@duke.edu,Nimmi Ramanujam,4509,"Robert W. Carr, Jr., Professor of Biomedical Engineering"
+510,,,2011.0,caroline.saulino@duke.edu,Caroline Saulino,4866,Medical Instructor in the Department of Psychiatry and Behavioral Sciences
+511,,,2000.0,vivian.chu@duke.edu,Vivian Chu,1015,Associate Professor of Medicine
+512,,,1989.0,,Vincent Chiodo,990,Consulting Associate in the Department of Community and Family Medicine
+513,,,1989.0,kornb001@mc.duke.edu,Sally Kornbluth,2991,Jo Rae Wright University Professor
+514,,,2007.0,eric.dedert@duke.edu,Eric Dedert,1321,Assistant Professor in Psychiatry and Behavioral Sciences
+515,1978.0,,1983.0,pgriffit@gmail.com,Paul Griffiths,2082,William K. Warren Foundation Professor of Catholic Theology
+516,,,2008.0,annegaelle.saliot@duke.edu,Anne-Gaelle Saliot,4822,Assistant Professor of Romance Studies
+517,,,1949.0,,Jacqueline Hijmans,2376,Assistant Professor Emeritus of Medicine
+518,,,1986.0,pende014@mc.duke.edu,Ann Pendergast,4277,Anthony R. Means Cancer Biology Professor
+519,,,2003.0,thomas.g.hunter@duke.edu,Thomas Hunter,2547,Assistant Professor of Ophthalmology
+520,,,1991.0,,Rowena Dolor,1418,Associate Professor of Medicine
+521,,,1968.0,wlail@duke.edu,H Wayne Lail,3086,"Lecturer, Part-time of Music"
+522,,,2010.0,robert.lewis@duke.edu,Robert Lewis,3236,Assistant Professor of Medicine
+523,,,1998.0,,Catherine Kaminetzky,2757,Adjunct Assistant Professor in the Department of Medicine
+524,2001.0,,2003.0,blocher@law.duke.edu,Joseph Blocher,527,Professor of Law
+525,,,1984.0,margarita.bidegain@duke.edu,Margarita Bidegain,490,Professor of Pediatrics
+526,,,1983.0,gwynn.long@duke.edu,Gwynn Long,3342,Professor of Medicine
+527,,,2011.0,gabriel.rosenberg@duke.edu,Gabriel Rosenberg,4741,Assistant Professor in the Program in Women's Studies
+528,,,1991.0,judith.hays@duke.edu,Judith Hays,2293,Associate Professor Emerita in the School of Nursing
+529,,,1974.0,richard.goldner@duke.edu,Richard Goldner,1978,Professor of Orthopaedic Surgery
+530,1977.0,,1984.0,banks@stat.duke.edu,David Banks,288,Professor of the Practice of Statistical Science
+531,,,2009.0,lei.ren@duke.edu,Lei Ren,4609,Associate Professor of Radiation Oncology
+532,,,1973.0,,Richard Harvey,2260,Adjunct Assistant Professor in the Department of Medicine
+533,,,2011.0,madde002@mc.duke.edu,Reginald Madden,3421,Consulting Associate in the School of Nursing
+534,,,1973.0,pcook@duke.edu,Philip Cook,1144,ITT/Terry Sanford Professor of Public Policy Studies
+535,,,2006.0,youngmi.jung@duke.edu,Youngmi Jung,2735,Visiting Research Scholar in the Department of Medicine
+536,,,1997.0,kolli001@mc.duke.edu,Scott Kollins,2971,Professor in Psychiatry and Behavioral Sciences
+537,,,1984.0,john.paat@duke.edu,John Paat,4152,Associate Professor of Medicine
+538,,,1977.0,lida.jeck@duke.edu,Lida Jeck,2635,Consulting Associate in Psychiatry and Behavioral Sciences
+539,,,2002.0,harshbarger@biac.duke.edu,Todd Harshbarger,2247,Medical Center Instructor in the Center for Brain Imaging and Analysis
+540,1960.0,,1968.0,laurence.hedlund@duke.edu,Laurence Hedlund,2312,Professor Emeritus of Radiology
+541,,,2006.0,ashwani.sastry@duke.edu,Ashwani Sastry,4859,Assistant Professor of Medicine
+542,,,1993.0,jeffrey.dvergsten@duke.edu,Jeffrey Dvergsten,1491,Assistant Professor of Pediatrics
+543,,,2015.0,natasha.hall@duke.edu,Natasha Hall,2170,Consulting Associate in the School of Nursing
+544,,,1977.0,perry.blackshear@duke.edu,Perry Blackshear,508,Consulting Professor in the Department of Medicine
+545,,,2010.0,eric.marrotte@duke.edu,Eric Marrotte,3502,Medical Instructor in the Department of Neurology
+546,,,1999.0,patricia.lugar@duke.edu,Patricia Lugar,3378,Assistant Professor of Medicine
+547,1999.0,,2005.0,,Landon Cox,1186,Associate Professor in the Department of Computer Science
+548,,,1966.0,tony.dren@duke.edu,Anthony Dren,1457,Consulting Professor in the School of Nursing
+549,,,1993.0,green094@mc.duke.edu,Jennifer Green,2057,Associate Professor of Medicine
+550,1999.0,,2005.0,devon.godfrey@duke.edu,Devon Godfrey,1965,Assistant Professor of Radiation Oncology
+551,,,1995.0,daniel.schmitt@duke.edu,Daniel Schmitt,4903,Professor  in the Department of Evolutionary Anthropology
+552,,,2009.0,brett.morgan@duke.edu,Brett Morgan,3854,Assistant Professor in the School of Nursing
+553,,,1986.0,jim.ross@duke.edu,James Ross,4753,Clinical Associate in the Department of Surgery
+554,,,2011.0,michael.d.rosenberg@duke.edu,Michael Rosenberg,4742,Clinical Associate in the Department of Radiology
+555,1983.0,,1988.0,charles.maxfield@duke.edu,Charles Maxfield,3553,Professor of Radiology
+556,1996.0,,2008.0,andrew.armstrong@duke.edu,Andrew Armstrong,195,Associate Professor of Medicine
+557,,,,william.hammond@duke.edu,William Hammond,2193,Professor in Community and Family Medicine
+558,,,2009.0,alexa.garvoille@duke.edu,Alexa Garvoille,1872,Visiting Instructor of Master of Arts in Teaching
+559,,,1989.0,arepa001@mc.duke.edu,Gowthami Arepally,188,Associate Professor of Medicine
+560,,,1999.0,,Susan Bazemore,363,Consulting Associate in the School of Nursing
+561,,,2001.0,benjamin.conway@duke.edu,Benjamin Conway,1135,Assistant Professor of Medicine
+562,,,1986.0,marianne.chulay@duke.edu,Marianne Chulay,1020,Consulting Associate in the School of Nursing
+563,2004.0,,2011.0,mine@stat.duke.edu,Mine Cetinkaya-Rundel,903,Associate Professor of the Practice of Statistical Science
+564,,,1983.0,,Michael Chee,946,Adjunct Associate Professor in Psychiatry and Behavioral Sciences
+565,,,2006.0,eric.benner@duke.edu,Eric Benner,424,"George W. Brumley, Jr. M.D Assistant Professor of Developmental Biology"
+566,,,2006.0,michael.cary@duke.edu,Michael Cary,883,Assistant Professor in the School of Nursing
+567,,,2012.0,dana.clifton@duke.edu,Dana Clifton,1062,Medical Instructor in the Department of Medicine
+568,,,2006.0,margie.sander@duke.edu,Margie Sander,4838,Consulting Associate in the Department of Community and Family Medicine
+569,1971.0,,1975.0,rouimette@nc.rr.com,Ruth Ouimette,4143,Assistant Professor Emeritus in the School of Nursing
+570,,,2007.0,michael.goley@duke.edu,MIchael Goley,1986,Consulting Associate in the School of Nursing
+571,,,2000.0,kirsten.corazzini@duke.edu,Kirsten Corazzini,1157,"Associate Professor in the School of Nursing, with tenure"
+572,,,1978.0,jasna.satornogo@duke.edu,Jasna Sator-Nogo,4862,Clinical Associate in the Department of Pediatrics
+573,,,1998.0,jerome.ecker@med.va.gov,Jerome Ecker,1518,Assistant Professor of Medicine
+574,1979.0,,,,John Petrowski,4310,Assistant Professor in the Department of Ophthalmology
+575,,,1999.0,tim.albert@duke.edu,Timothy Albert,76,Assistant Consulting Professor in the Department of Medicine
+576,,,2006.0,amber.jarvis@duke.edu,Amber Jarvis,2628,Assistant Professor of Obstetrics and Gynecology
+577,,,2006.0,yunfeng.cui@duke.edu,Yunfeng Cui,1222,Assistant Professor of Radiation Oncology
+578,,,2006.0,ronald.george@duke.edu,Ronald George,1898,Assistant Consulting Professor in the Department of Medicine
+579,1961.0,,1968.0,dlhatchell@mindspring.com,Diane Hatchell,2268,Joseph A. C. Wadsworth Research Professor Emeritus of Ophthalmology
+580,,,2007.0,danielle.brander@duke.edu,Danielle Brander,649,Assistant Professor of Medicine
+581,1976.0,,1984.0,karen.neander@duke.edu,Karen Neander,3976,Professor of Philosophy
+582,,,2007.0,michael.lynch@duke.edu,Michael Lynch,3390,Assistant Professor in the Department of Biomedical Engineering
+583,,,1989.0,cheif002@mc.duke.edu,Ira Cheifetz,949,Professor of Pediatrics
+584,,,1987.0,sintiong.ong@dukenus.edu.sg,Sin Ong,4120,Associate Professor of Medicine
+585,,,1995.0,,Angelique Chan,915,Associate Consulting Professor in the Department of Medicine
+586,2001.0,,2006.0,ilya.leyngold@duke.edu,Ilya Leyngold,3239,Assistant Professor of Ophthalmology
+587,1968.0,,1979.0,linville@duke.edu,Patricia Linville,3297,Associate Professor of Business Administration
+588,,,2008.0,cyra.kussman@duke.edu,Cyra Kussman,3064,Consulting Associate in the School of Nursing
+589,,,2016.0,stephanie.devanejohnson@duke.edu,Stephanie DeVane Johnson,1363,Consulting Associate in the School of Nursing
+590,,,2008.0,kris.hauser@duke.edu,Kris Hauser,2273,Associate Professor in the Department of Electrical and Computer Engineering
+591,,,1993.0,,Charles Callahan,823,Assistant Consulting Professor in the Department of Medicine
+592,,,1995.0,jerudolp@ncsu.edu,Julia Rudolph,4786,Adjunct Professor of Law
+593,,,2011.0,nabanita.mukherjee@duke.edu,Nabanita Mukherjee,3910,Visiting Assistant Professor of Statistical Science
+594,1989.0,,1996.0,schol@phy.duke.edu,Kate Scholberg,4914,Professor of Physics
+595,,,,lichen.chin@duke.edu,Li-chen Chin,984,Adjunct Instructor of Education
+596,,,1989.0,muschkin@duke.edu,Clara Muschkin,3939,Associate Research Professor in the Sanford School of Public Policy
+597,,,1975.0,edward.marshall@duke.edu,Edward Marshall,3506,Adjunct Professor in the Fuqua School of Business
+598,1973.0,,1980.0,tboat@duke.edu,Mary Boatwright,541,Professor of Classical Studies
+599,,,1987.0,joseph.geradts@duke.edu,Joseph Geradts,1910,Adjunct Professor in the Department of Pathology
+600,1983.0,,1988.0,moorman@duke.edu,Christine Moorman,3842,"T. Austin Finch, Sr. Professor of Business Administration in Fuqua School of Business"
+601,,,2012.0,craig.cunningham2@duke.edu,Craig Cunningham,1234,Consulting Associate in the School of Nursing
+602,2007.0,,2014.0,sarah.gaither@duke.edu,Sarah Gaither,1836,Assistant Professor of Psychology and Neuroscience
+603,1979.0,,1988.0,ferraro@duke.edu,Thomas Ferraro,1665,Frances Hill Fox Professor of English
+604,,,1973.0,tom.petes@duke.edu,Thomas Petes,4305,"Minnie Geller Professor of Research in Genetics, in the School of Medicine"
+605,,,1999.0,richman@law.duke.edu,Barak Richman,4648,Edgar P. and Elizabeth C. Bartlett Professor of Law
+606,,,1988.0,joseph.p.horrigan@duke.edu,Joseph Horrigan,2477,Associate Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+607,,,1986.0,jeff.poggi@duke.edu,John Poggi,4362,Clinical Associate in the Department of Orthopaedic Surgery
+608,,,2008.0,paul.bendich@duke.edu,Paul Bendich,416,Assistant Research Professor in the Department of Mathematics
+609,,,1998.0,chrisl@gmail.com,Christopher LaSala,3126,Executive in Residence
+610,,,,kenneth.fath@duke.edu,Kenneth Fath,1628,Clinical Associate in the Department of Medicine
+611,,,2009.0,daniel.kovacs@duke.edu,Daniel Kovacs,3001,Clinical Associate in the Department of Anesthesiology
+612,,,1983.0,,Gang Cheng,966,Adjunct Assistant Professor in the Department of Medicine
+613,,,2002.0,m.bagnat@cellbio.duke.edu,Michel Bagnat,255,Associate Professor of Cell Biology
+614,,,1997.0,sameer.kamath@duke.edu,Sameer Kamath,2754,Associate Professor of Pediatrics
+615,,,2002.0,paul.clark@duke.edu,Paul Clark,1047,Adjunct Associate in the Department of Medicine
+616,,,1986.0,langd002@mc.duke.edu,Scott Langdon,3107,Assistant Research Professor of Immunology
+617,,,1975.0,piant001@mc.duke.edu,Claude Piantadosi,4324,Professor of Medicine
+618,,,2006.0,grace.mccarthy@duke.edu,Grace McCarthy,3575,Assistant Professor of Anesthesiology
+619,,,1986.0,john.morris@duke.edu,John Morris,3866,Consulting Associate in the Department of Community and Family Medicine
+620,,,2004.0,akjohnson@law.duke.edu,Alexandra Johnson,2666,Lecturing Fellow Senior of Law
+621,,,1977.0,david.guy@duke.edu,David Guy,2138,Instructor in the Sanford School of Public Policy
+622,1969.0,,1973.0,john.guyton@duke.edu,John Guyton,2139,Professor of Medicine
+623,,,2008.0,jayanth.doss@duke.edu,Jayanth Doss,1442,Medical Instructor in the Department of Medicine
+624,,,1999.0,,Gregory Della Rocca,1332,Associate Professor in Orthopaedic Surgery
+625,,,1982.0,karen.miller@duke.edu,Karen Miller,3760,Consulting Associate in the Department of Medicine
+626,,,2000.0,,Robert Musser,3941,Assistant Professor of Medicine
+627,,,2001.0,nankuei.chen@duke.edu,Nan-kuei Chen,958,Adjunct Associate Professor in the Department of Radiology
+628,,,2010.0,neil.d.ray@duke.edu,Neil Ray,4546,Assistant Professor of Anesthesiology
+629,,,1981.0,,Margaret Gradison,2025,Professor of Community and Family Medicine
+630,1985.0,,1993.0,cynthia.guy@duke.edu,Cynthia Guy,2137,Associate Professor of Pathology
+631,,,1998.0,jeffrey.gaca@duke.edu,Jeffrey Gaca,1826,Associate Professor of Surgery
+632,1982.0,,1989.0,pankaj@cs.duke.edu,Pankaj Agarwal,52,RJR Nabisco Professor of Computer Science in Trinity College of Arts and Sciences
+633,,,2005.0,jenni.day@duke.edu,Jennifer Day,1302,Consulting Associate in the School of Nursing
+634,1973.0,,1984.0,robert.clemen@duke.edu,Robert Clemen,1055,Professor Emeritus
+635,,,1978.0,richard.pratt@duke.edu,Richard Pratt,4410,Visiting Associate Professor in the Department of Medicine
+636,,,1972.0,jbutts@med.unc.edu,John Butts,800,Adjunct Assistant Professor of Pathology
+637,,,1978.0,dockterman@law.duke.edu,Michael Dockterman,1411,Senior Lecturing Fellow of Law
+638,2003.0,,2006.0,,Andrew Bonner,565,"Lecturer, Part-time of Music"
+639,,,,sangwoo.kim@duke.edu,Sangwoo Kim,2894,"Instructor, Special Programs"
+640,2004.0,,2009.0,jed.atkins@duke.edu,Jed Atkins,225,Assistant Professor of Classical Studies
+641,,,2002.0,peter.nicholls@duke.edu,Peter Nicholls,4015,Assistant Professor of Psychiatry and Behavioral Sciences
+642,,,1985.0,alice.cooper@duke.edu,Alice Cooper,1149,Clinical Associate in the Department of Obstetrics and Gynecology
+643,,,2011.0,kevin.shah@duke.edu,Kevin Shah,5001,Consulting Associate in the Department of Medicine
+644,,,2001.0,maria.segovia@duke.edu,Maria Segovia,4966,Assistant Professor of Medicine
+645,,,2002.0,david.salvesen@duke.edu,David Salvesen,4827,Visiting Instructor
+646,,,1980.0,cutso001@mc.duke.edu,Toni Cutson,1243,Associate Professor of Medicine
+647,1991.0,,2010.0,susan.schreffler@duke.edu,Susan Schreffler,4921,Assistant Professor of Surgery
+648,,,,john.orr@duke.edu,John Orr,4127,"Instructor, (P T)/Univ in HPER - Administration"
+649,1993.0,,2001.0,david.ridley@duke.edu,David Ridley,4654,Associate Professor of the Practice  of Business Administration
+650,1969.0,,,gonza002@mc.duke.edu,Mario Gonzalez-Gronow,1996,Associate Professor Emeritus of Pathology
+651,,,2000.0,james.s.mills@duke.edu,James Mills,3775,Assistant Professor of Medicine
+652,,,1995.0,mhutson@duke.edu,Mary Hutson,2556,Assistant Professor in Pediatrics
+653,,,2009.0,kendra.hargrave@duke.edu,Kendra Hargrave,2220,Consulting Associate in the School of Nursing
+654,1970.0,,1977.0,judith.kramer@duke.edu,Judith Kramer,3011,Professor Emeritus of Medicine
+655,,,1977.0,brant006@mc.duke.edu,Jeffrey Brantley,654,Assistant Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+656,,,1992.0,ward.bennett@duke.edu,Ward Bennett,432,Consulting Associate in theDepartment of Community and Family Medicine
+657,,,2000.0,jentsan.chi@duke.edu,Jen-Tsan Chi,976,Associate Professor in Molecular Genetics and Microbiology
+658,,,1988.0,hendo@duke.edu,Hitomi Endo,1569,Associate Professor of the Practice in the Department of Asian and Middle Eastern Studies
+659,1992.0,,2003.0,michael.gehm@duke.edu,Michael Gehm,1889,Associate Professor of Electrical and Computer Engineering
+660,,,2004.0,redd0004@mc.duke.edu,Elizabeth Redd,4559,Clinical Associate in the School of Nursing
+661,1961.0,,1965.0,dkrain@math.duke.edu,David Kraines,3009,Associate Professor Emeritus of Mathematics
+662,,,1975.0,ritt@duke.edu,Daniel Rittschof,4666,"Professor, Marine Science and Conservation"
+663,,,1992.0,,Christian Daniel,1263,Consulting Associate in the Department of Community and Family Medicine
+664,,,1978.0,diehl004@mc.duke.edu,Anna Mae Diehl,1389,"Florence McAlister Professor of Medicine, in the School of Medicine"
+665,,,1986.0,,James Chimiak,982,Consulting Associate in the Department of Anesthesiology
+666,1994.0,,2001.0,anita.layton@duke.edu,Anita Layton,3149,Robert R. & Katherine B. Penn Professor of Mathematics
+667,1975.0,,1979.0,michael.cicale@duke.edu,Michael Cicale,1029,Associate Consulting Professor in the Department of Medicine
+668,1988.0,,1995.0,jorda019@duke.edu,Gloria Jordan,2715,Consulting Associate in the Department of Community and Family Medicine
+669,,,1977.0,bill.purdy@duke.edu,William Purdy,4457,Associate Professor Emeritus of Pediatrics
+670,2004.0,,2008.0,erin.leiman@duke.edu,Erin Leiman,3196,Assistant Professor of Surgery
+671,,,1978.0,rose0003@mc.duke.edu,Jed Rose,4736,Professor in Psychiatry and Behavioral Sciences
+672,,,2004.0,david.halpern@duke.edu,David Halpern,2180,Consulting Associate in the Department of Medicine
+673,,,1982.0,bruce.burnett@duke.edu,Bruce Burnett,781,Assistant Professor in Medicine
+674,,,1998.0,david.f.adams@duke.edu,David Adams,31,Consulting Associate in the Department of Pediatrics
+675,,,1975.0,arthur.greenberg@duke.edu,Arthur Greenberg,2058,Professor Emeritus of Medicine
+676,,,1988.0,james.peterson@duke.edu,James Peterson,4303,Assistant Professor of Medicine
+677,,,2010.0,jonathan.campbell@duke.edu,Jonathan Campbell,831,Assistant Professor in Medicine
+678,,,1993.0,jeffrey.baker@duke.edu,Jeffrey Baker,266,Professor of Pediatrics
+679,,,1976.0,,William Greeley,2054,Adjunct Professor in the Department of Anesthesiology
+680,1964.0,,1968.0,bona@duke.edu,Celia Bonaventura,558,Professor Emeritus
+681,,,2007.0,jenna.koenigshofer@duke.edu,Jenna Koenigshofer,2964,"Instructor, Medical Center in the School of Nursing"
+682,,,1974.0,,Kenneth Korach,2989,Adjunct Professor of Pharmacology & Cancer Biology
+683,,,1989.0,que00001@duke.edu,Loretta Que,4472,Associate Professor of Medicine
+684,,,1972.0,nadle002@acpub.duke.edu,J. Nadler,3953,Professor Emeritus of Pharmacology & Cancer Biology
+685,,,1994.0,,Karen Link,3293,Assistant Consulting Professor in the Department of Community and Family Medicine
+686,1989.0,,2002.0,datta001@mc.duke.edu,Santanu Datta,1274,Assistant Professor in Medicine
+687,,,1989.0,richard.lopez@duke.edu,Richard Lopez,3349,Associate Professor of Medicine
+688,,,1999.0,,Ellen Flanagan,1708,Assistant Professor of Anesthesiology
+689,,,1974.0,hanso003@mc.duke.edu,Michael Hanson,2209,Professor of Radiology
+690,,,2003.0,lisa.carboni@duke.edu,Lisa Carboni,846,Adjunct Associate Professor in the Program in Education
+691,1996.0,,2003.0,colleen.carney@duke.edu,Colleen Carney,861,Adjunct Assistant Professor in the Department of Psychiatry and Behavioral Sciences
+692,,,1976.0,jane.kelly@duke.edu,Jane Kelly,2835,Instructor in the English for International Students
+693,,,1969.0,askounis@duke.edu,Christina Askounis,218,Lecturer
+694,1993.0,,1999.0,psarcidi@mac.com,Peter Arcidiacono,186,Professor of Economics
+695,,,2001.0,rebecca.klein@duke.edu,Rebecca Klein,2938,Assistant Professor of Psychiatry and Behavioral Sciences
+696,,,1985.0,,James Burke,776,Professor of Neurology
+697,,,1984.0,lorena.beese@duke.edu,Lorena Beese,390,James B. Duke Professor of Medicine
+698,,,2011.0,katherine.king@duke.edu,Katherine King,2905,Visiting Assistant Professor in the Department of Community and Family Medicine
+699,,,2001.0,,Jeremy Mullem,3914,Clinical Professor of Law
+700,,,1972.0,cdavant@pol.net,Charles Davant,1279,Assistant Consulting Professor of Community and Family Medicine
+701,,,,harry.gallis@duke.edu,Harry Gallis,1848,Consulting Professor in the Department of Medicine
+702,1975.0,,1978.0,dodge@duke.edu,Kenneth Dodge,1415,William McDougall Professor of Public Policy Studies
+703,,,1980.0,ggere@soc.duke.edu,Gary Gereffi,1913,Professor of Sociology
+704,,,1981.0,,Samuel Kapnick,2771,Assistant Consulting Professor of Obstetrics and Gynecology
+705,,,1979.0,scott.berkowitz@duke.edu,Scott Berkowitz,455,Adjunct Associate Professor in the Department of Medicine
+706,,,2010.0,yasmin.maisonave@duke.edu,Yasmin Maisonave,3439,Assistant Professor of Anesthesiology
+707,,,1998.0,vineet.gupta@duke.edu,Vineet Gupta,2125,Consulting Associate in the Department of Pediatrics
+708,,,2004.0,elizabeth.riley@duke.edu,Elizabeth Riley,4660,Assistant Consulting Professor in the Department of Community and Family Medicine
+709,1983.0,,1992.0,desai@duke.edu,Preyas Desai,1357,Spencer Hassell Professor of Business Administration
+710,,,1968.0,galef@mcmaster.ca,Bennett Galef,1839,Adjunct Professor of Biology
+711,,,2010.0,lu.adams@duke.edu,Lu Adams,34,AssistantProfessor of Anesthesiology
+712,2008.0,,2012.0,wonchon.lin@duke.edu,Wonchon Lin,3278,Clinical Associate in the Department of Ophthalmology
+713,,,,erdman.palmore@duke.edu,Erdman Palmore,4170,Professor Emeritus
+714,,,1978.0,robert.elliott@duke.edu,Robert Elliott,1554,Clinical Associate in the Department of Medicine
+715,,,2006.0,mehreen.arshad@duke.edu,Mehreen Arshad,205,Assistant Professor of Pediatrics
+716,,,1977.0,jack.edinger@duke.edu,Jack Edinger,1526,Adjunct Professor in the Department of Psychiatry and Behavioral Sciences
+717,,,1974.0,,Edward Breitschwerdt,662,Adjunct Professor in the Department of Medicine
+718,,,2006.0,amy.manchester@duke.edu,Amy Manchester,3462,Assistant Professor of Anesthesiology
+719,1971.0,,,sun@law.duke.edu,Sara Beale,366,Charles L. B. Lowndes Professor of Law
+720,,,1985.0,,Scott Randell,4522,Adjunct Associate Professor in the Department of Cell Biology
+721,,,2006.0,yutao.liu@duke.edu,Yutao Liu,3318,Adjunct Assistant Professor in the Department of Medicine
+722,,,2003.0,robles@math.duke.edu,Colleen Robles,4697,Associate Professor in the Department of Mathematics
+723,1977.0,,1980.0,bill.parsons@duke.edu,William Parsons,4214,Clinical Associate in the Department of Medicine
+724,,,1961.0,leonard.prosnitz@duke.edu,Leonard Prosnitz,4436,Professor Emeritus of Radiation Oncology
+725,,,1984.0,bryan.cullen@duke.edu,Bryan Cullen,1223,James B. Duke Professor of Medicine
+726,,,1983.0,jane.satter@duke.edu,Jane Satter,4863,Consulting Associate in Community and Family Medicine
+727,,,2006.0,axcarter@bop.gov,Alnissa Carter,873,Consulting Associate in the Department of Community and Family Medicine
+728,,,1999.0,sara.page@duke.edu,Sara Page,4159,Assistant Professor of Pediatrics
+729,,,1989.0,tkircher@guilford.edu,Timothy Kircher,2920,Scholar in Residence in the Department of History
+730,,,2008.0,joshua.mckinney@duke.edu,Joshua McKinney,3640,Adjunct Associate in the Department of Community and Family Medicine
+731,,,1993.0,,Luda Diatchenko,1380,Adjunct Professor in the Department of Anesthesiology
+732,,,1992.0,eastw004@mc.duke.edu,James Eastwood,1511,Associate Professor of Radiology
+733,1977.0,,1982.0,scott.cousins@duke.edu,Scott Cousins,1174,"Robert Machemer, M.D. Professor of Ophthalmology"
+734,,,1981.0,james.dolan@duke.edu,James Dolan,1416,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+735,,,2015.0,lance.okeke@duke.edu,Nwora Okeke,4102,Assistant Professor of Medicine
+736,,,2001.0,kolls001@mc.duke.edu,Bradley Kolls,2973,Associate Professor of Neurology
+737,,,1986.0,w.broyles@duke.edu,William Broyles,727,Assistant Consulting Professor in the Department of Community and Family Medicine
+738,,,1965.0,cerick@duke.edu,Carl Erickson,1583,Professor Emeritus of Psychological and Brain Sciences
+739,,,2009.0,brandon.kohrt@duke.edu,Brandon Kohrt,2968,Assistant Professor in Psychiatry and Behavioral Sciences
+740,,,1986.0,sdmoore@duke.edu,Scott Moore,3840,Professor of Psychiatry and Behavioral Sciences
+741,,,,robert.jones@duke.edu,Robert Jones,2707,Mary and Deryl Hart Professor Emeritus of Surgery
+742,,,1968.0,guenther@mail.phy.duke.edu,Bobby Guenther,2103,Adjunct Professor of Physics
+743,1998.0,,2004.0,ckgunsch@duke.edu,Claudia Gunsch,2117,Theodore Kennedy Associate Professor
+744,,,2015.0,tara.clarke@duke.edu,Tara Clarke,1053,Visiting Assistant Professor in the Department of Evolutionary Anthropology
+745,,,1999.0,,Leonor Corsino,1164,Assistant Professor of Medicine
+746,,,1992.0,joy00002@mc.duke.edu,Scott Joy,2727,Adjunct Associate Professor in the Department of Medicine
+747,,,1985.0,kyle.cavanaugh@duke.edu,Kyle Cavanaugh,898,Consulting Associate in the Department of Community and Family Medicine
+748,,,1983.0,robert.kamei@duke.edu,Robert Kamei,2755,Professor of Pediatrics
+749,1953.0,,1959.0,tfk1@duke.edu,Thomas Keller,2825,R. J. Reynolds Professor Emeritus of Business Administration
+750,1980.0,,2002.0,,Sherry Fox,1760,Adjunct Assistant Professor in the School of Nursing
+751,,,1972.0,,Gail McGuinness,3624,Professor of Pediatrics
+752,,,1993.0,rich0001@mc.duke.edu,Jeremy Rich,4634,Adjunct Associate Professor in the Department of Neurology
+753,,,2000.0,richard.riedel@duke.edu,Richard Riedel,4656,Associate Professor of Medicine
+754,,,2009.0,doug.boyer@duke.edu,Douglas Boyer,619,Assistant Professor in Evolutionary Anthropology
+755,,,2014.0,min.young.her@duke.edu,Min Young Her,2352,Visiting Associate in the Department of Dermatology
+756,1980.0,,1993.0,blt@duke.edu,Alma Blount,532,"Lecturer, Senior in the Sanford School of Public Policy"
+757,,,1984.0,richard.kravitz@duke.edu,Richard Kravitz,3020,Professor of Pediatrics
+758,,,1997.0,bernie.fischer@duke.edu,Bernard Fischer,1689,Associate Professor of Pediatrics
+759,,,1992.0,michael.w.miller@duke.edu,Michael Miller,3765,Adjunct Associate Professor of Global Health
+760,2000.0,,2007.0,nora.lad@duke.edu,Eleonora Lad,3079,Assistant Professor of Ophthalmology
+761,,,2006.0,timothy.ashley@duke.edu,Timothy Ashley,214,Consulting Associate in the Department of Medicine
+762,,,1988.0,rice0017@mc.duke.edu,Henry Rice,4632,Professor of Surgery
+763,,,1983.0,jeffrey.merrell@duke.edu,Jeffrey Merrell,3706,Senior Lecturing Fellow
+764,,,1969.0,andrew.meyer@duke.edu,Andrew Meyer,3724,Assistant Professor Emeritus of Anesthesiology
+765,,,1996.0,jorn.karhausen@duke.edu,Jorn Karhausen,2775,Assistant Professor of Anesthesiology
+766,,,1976.0,dennis.college@duke.edu,Dennis College,1107,Assistant Professor of Medicine
+767,,,,deborah.gold@duke.edu,Deborah Gold,1972,Professor in Psychiatry and Behavioral Sciences
+768,,,2001.0,amritpal.manes@duke.edu,Amritpal Manes,3463,Consulting Associate in the Department of Community and Family Medicine
+769,,,1955.0,,Alexander Hull,2535,Associate Professor Emeritus
+770,,,1991.0,richard.boortzmarx@duke.edu,Richard Boortz-Marx,572,Associate Professor of Anesthesiology
+771,1987.0,,1995.0,eballeis@duke.edu,Edward Balleisen,281,Associate Professor of History
+772,,,1991.0,moira.rynn@duke.edu,Moira Rynn,4806,Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+773,,,2002.0,,Katherine Garman,1867,Assistant Professor of Medicine
+774,1974.0,,1994.0,joseph.leboeuf@duke.edu,Joseph LeBoeuf,3158,Professor of the Practice of Business Administration
+775,,,1991.0,lisan001@win.duke.edu,Sarah Lisanby,3303,J. P. Gibbons Professor of Psychiatry II
+776,,,1991.0,paul.hendrix@duke.edu,Paul Hendrix,2344,Associate Consulting Professor in Community and Family Medicine
+777,,,1990.0,lin00004@mc.duke.edu,Pao-Hwa Lin,3276,Associate Professor in Medicine
+778,,,1998.0,kilts001@mc.duke.edu,Jason Kilts,2879,Assistant Professor in Psychiatry and Behavioral Sciences
+779,,,2001.0,larry.allen@duke.edu,Larry Allen,99,Adjunct Assistant Professor in the Department of Medicine
+780,,,1986.0,,Alan Boudreau,593,Professor in the Nicholas School of the Environment
+781,,,,honey.jones@mc.duke.edu,Honey Jones,2699,Clinical Associate in the School of Nursing
+782,,,2002.0,chip.bailey@duke.edu,Donald Bailey,259,"Associate Professor in the School of Nursing, with tenure"
+783,,,1982.0,,James Heine,2321,Associate Consulting Professor in the Department of Community and Family Medicine
+784,,,2001.0,mccle011@mc.duke.edu,Francis McClernon,3587,Professor in Psychiatry & Behavioral Sciences
+785,,,1978.0,mark0003@mc.duke.edu,Jonathan Mark,3495,Professor of Anesthesiology
+786,,,1997.0,neal.flanagan@duke.edu,Neal Flanagan,1710,Visiting Assistant Professor
+787,,,2003.0,jennifer.eaton@duke.edu,Jennifer Eaton,1513,Assistant Professor of Obstetrics and Gynecology
+788,,,2012.0,jennifer.plumb.vilardaga@duke.edu,Jennifer Plumb Vilardaga,4360,Assistant Professor in Psychiatry abd Behavioral Sciences
+789,,,2009.0,christine.downey@duke.edu,Christine Downey,1450,Adjunct Assistant Professor in the Department of Medicine
+790,,,2002.0,scott.buckel@duke.edu,Scott Buckel,748,Assistant Consulting Professor in the Department of Orthopaedic Surgery
+791,,,1989.0,,Douglas Huntley,2548,Consulting Associate in the Department of Surgery
+792,1985.0,,,cbradley@law.duke.edu,Curtis Bradley,632,William W. Van Alstyne Professor of Law
+793,1994.0,,1999.0,mohammad.ahmed@duke.edu,Mohammad Ahmed,59,Adjunct Associate Professor of Physics
+794,1976.0,,1984.0,stephen_hooper@med.unc.edu,Stephen Hooper,2460,Adjunct Professor in Psychiatry and Behavioral Sciences
+795,,,2008.0,jill.brennancook@duke.edu,Jill Brennan-Cook,667,Assistant Professor in the School of Nursing
+796,1994.0,,2003.0,laura.lieber@duke.edu,Laura Lieber,3265,Professor of Religious Studies
+797,,,2009.0,yuting.lin2@duke.edu,Yuting Lin,3279,Assistant Professor of Radiation Oncology
+798,,,2005.0,,Aimee Chung,1021,Assistant Professor of Pediatrics
+799,,,2005.0,,Sara Ahmadi,56,Assistant Professor of Medicine
+800,,,1999.0,cynthia.l.johnson@duke.edu,Cynthia Johnson,2670,Assistant Professor of Medicine
+801,2001.0,,2006.0,,Vincent Conitzer,1127,Kimberly J. Jenkins University Professor of New Technologies
+802,,,2009.0,jonathan.piccini@duke.edu,Jonathan Piccini,4325,Associate Professor of Medicine
+803,,,1981.0,r.best@duke.edu,Randall Best,473,Clinical Associate in the Department of Surgery
+804,1960.0,,1968.0,ayl3@duke.edu,Arie Lewin,3230,Professor Emeritus
+805,2002.0,,2008.0,ryan.plichta@duke.edu,Ryan Plichta,4358,Assistant Professor of Surgery
+806,,,1976.0,bruce.kuniholm@duke.edu,Bruce Kuniholm,3053,Professor in the Sanford School of Public Policy
+807,1970.0,,1974.0,bill.chameides@duke.edu,William Chameides,912,Nicholas Professor Emeritus of the Environment in the Nicholas School of the Environment
+808,,,1989.0,denise.koo@duke.edu,Denise Koo,2984,Consulting Professor in the Department of Community and Family Medicine
+809,,,2004.0,hahn@math.duke.edu,Heekyoung Hahn,2153,Assistant Research Professor of Mathematics
+810,1959.0,,1964.0,william.joines@duke.edu,William Joines,2690,Professor of Electrical and Computer Engineering
+811,,,2006.0,todd.sarver@duke.edu,Todd Sarver,4857,Associate Professor of Economics
+812,,,2011.0,schenita.randolph@duke.edu,Schenita Randolph,4525,Assistant Professor in the School of Nursing
+813,,,1984.0,ned.amendola@duke.edu,Annunziato Amendola,130,Professor of Orthopaedic Surgery
+814,,,1974.0,carmel@duke.edu,Harold Carmel,859,Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+815,,,2005.0,amanda.macleod@duke.edu,Amanda MacLeod,3412,Assistant Professor in Dermatology
+816,,,1993.0,odonn001@mc.duke.edu,Timothy O'Donnell,4073,Consulting Associate in the Department of Community and Family Medicine
+817,,,2010.0,mala.kaul@duke.edu,Mala Kaul,2792,Adjunct Assistant Professor in the Department of Medicine
+818,1994.0,,1999.0,nicole.larrier@duke.edu,Nicole Larrier,3122,Assistant Professor of Radiation Oncology
+819,,,1994.0,preston.klassen@duke.edu,Preston Klassen,2933,Adjunct Associate in the Department of Medicine
+820,,,2015.0,jason.brent@duke.edu,Jason Brent,668,Adjunct Assistant Professor
+821,,,1967.0,wch@neuro.duke.edu,William Hall,2175,Professor Emeritus of Neurobiology
+822,,,1999.0,nick.bird@duke.edu,Nicholas Bird,499,Consulting Associate in the Department of Community and Family Medicine
+823,1978.0,,1982.0,john.buckwalter@duke.edu,John Buckwalter,755,Assistant Clinical Professor of Anesthesiology
+824,,,1986.0,,Ronald Pollack,4369,Consulting Associate in the Department of Community and Family Medicine
+825,,,2010.0,yuriy.bronshteyn@duke.edu,Yuriy Bronshteyn,693,Assistant Professor of Anesthesiology
+826,,,1993.0,eileen.raynor@duke.edu,Eileen Raynor,4551,Associate Professor of Surgery
+827,,,1978.0,james.abbruzzese@duke.edu,James Abbruzzese,4,"Charles Johnson, M.D. Professor of Medicine"
+828,,,2005.0,christopher.eckstein@duke.edu,Christopher Eckstein,1521,Assistant Professor of Neurology
+829,,,2002.0,scott.floyd@duke.edu,Scott Floyd,1719,Associate Professor of Radiation Oncology
+830,,,2011.0,siddharth.sata@duke.edu,Siddharth Sata,4860,Assistant Professor of Anesthesiology
+831,,,1997.0,deanna.adkins@duke.edu,Deanna Adkins,46,Assistant Professor of Pediatrics
+832,,,,,David Katz,2785,"Nello L. Teer, Jr. Professor of Biomedical Engineering, in the Edmund T. Pratt, Jr. School of Engineering"
+833,,,2008.0,nico.hotz@duke.edu,Nico Hotz,2484,Assistant Professor of the Practice in the Department of Mechanical Engineering & Materials Science
+834,,,2002.0,lorraine.sease@duke.edu,Lorraine Sease,4961,Assistant Professor in Community and Family Medicine
+835,1966.0,,1972.0,,Curtis Richardson,4640,John O. Blackburn Professor
+836,,,1994.0,susan.halabi@duke.edu,Susan Halabi,2156,Professor of Biostatistics and Bioinformatics
+837,,,2011.0,jennifer.hauck@duke.edu,Jennifer Hauck,2270,Assistant Professor of Anesthesiology
+838,,,2003.0,,Ziad Gellad,1893,Associate Professor of Medicine
+839,,,2011.0,liana.puscas@duke.edu,Liana Puscas,4463,Associate Professor of Surgery
+840,,,2001.0,snp2@duke.edu,Sheila Patek,4220,Associate Professor in the Department of Biology
+841,,,2000.0,catherine.chang@duke.edu,Catherine Chang,923,Assistant Professor of Radiation Oncology
+842,,,2006.0,genevieve.fouda@duke.edu,Genevieve Fouda,1749,Assistant Professor in Pediatrics
+843,,,1987.0,james.bonner@duke.edu,James Bonner,566,Adjunct Assistant Professor of Pathology
+844,,,2007.0,karine.provot@duke.edu,Karine Provot,4440,Lecturing Fellow of Romance Studies
+845,,,1986.0,mcada003@mc.duke.edu,Holman McAdams,3564,Professor of Radiology
+846,,,2000.0,nirmish.shah@duke.edu,Nirmish Shah,5002,Assistant Professor of Medicine
+847,1987.0,,1993.0,dale.christensen@duke.edu,Dale Christensen,1007,Adjunct Associate Professor in the Department of Medicine
+848,,,1989.0,,Ponugoti Rao,4534,Professor of Ophthalmology
+849,,,1974.0,mamckean@duke.edu,Margaret McKean,3631,Professor Emerita of Political Science
+850,1996.0,,2001.0,hutton.kearney@duke.edu,Hutton Kearney,2804,Assistant Consulting Professor in the Department of Pathology
+851,,,1995.0,niels006@mc.duke.edu,Karen Nielsen,4025,Associate Professor of Anesthesiology
+852,,,1998.0,dina.requena@duke.edu,Dina Requena,4613,Adjunct Associate Professor in the Pratt School of Engineering
+853,,,1988.0,wayne.norman@duke.edu,Wayne Norman,4051,Mike and Ruth Mackowski Professor of Ethics in Trinity College of Arts and Sciences
+854,,,1988.0,rprillaman@cfsnc.org,Antholene Prillaman,4428,Adjunct Associate Professor of Education
+855,,,1987.0,thomas.damico@duke.edu,Thomas D'Amico,1246,Gary Hock Professor of Surgery
+856,,,1983.0,myra.guzman@duke.edu,Myra Guzman,2140,Consulting Associate in the Departmentof Community and Family Medicine
+857,,,2002.0,peter.grossi@duke.edu,Peter Grossi,2094,Assistant Professor of Neurosurgery
+858,,,2008.0,wenchi.foo@duke.edu,Wen Foo,1727,Assistant Professor of Pathology
+859,1995.0,,1997.0,sara.katsanis@duke.edu,Sara Katsanis,2782,Instructor in the Duke Initiative for Science & Society
+860,,,1977.0,jean.hamilton@duke.edu,Jean Hamilton,2187,Professor Emeritus of Psychology and Neuroscience
+861,,,2003.0,niena0012@mc.duke.edu,Jeffrey Nienaber,4026,Assistant Consulting Professor in the Department of Surgery
+862,,,1994.0,marc.deshusses@duke.edu,Marc Deshusses,1358,Professor of Civil and Environmental Engineering
+863,,,,rupa.ray@duke.edu,Rupa Ray,4547,Medical Instructor in the Department of Pathology
+864,,,2015.0,kyle.jurado@duke.edu,Kyle Jurado,2738,Assistant Professor of Economics
+865,,,1996.0,lruth@div.duke.edu,John Ruth,4799,Research Professor of Christian Worship
+866,,,1990.0,isabella.bentsen@duke.edu,Isabella Bentsen,437,Consulting Associate in the Department of Medicine
+867,,,1980.0,,Habib Bassil,347,Consulting Associate in the Department of Medicine
+868,,,,boyle@law.duke.edu,James Boyle,621,William Neal Reynolds Professor of Law
+869,,,2008.0,didem.havli@duke.edu,Didem Havlioglu,2277,Lecturing Fellow in the Department of Asian and Middle Eastern Studies
+870,,,2012.0,mp275@duke.edu,Miroslav Pajic,4161,Assistant Professor in the Department of Electrical and Computer Engineering
+871,,,1986.0,,Robert Pryor,4446,Assistant Consulting Professor in the Department of Medicine
+872,,,2002.0,andrew.patton@duke.edu,Andrew Patton,4244,Zelter Family Professor
+873,1964.0,,1971.0,mjc@med.unc.edu,Martin Costello,1168,Adjunct Associate Professor in Ophthalmology
+874,,,1995.0,catherine.lavau@duke.edu,Catherine Lavau,3139,Associate Professor in Pediatrics
+875,,,2006.0,jay.golden@duke.edu,Jay Golden,1976,Associate Professor of the Practice of Sustainable Systems Analysis
+876,,,1973.0,murph016@mc.duke.edu,Thomas Murphy,3929,Professor Emeritus of Pediatrics
+877,1961.0,,1967.0,r.hochmuth@duke.edu,Robert Hochmuth,2403,Professor Emeritus of Mechanical Engineering and Materials Science
+878,,,2003.0,amy.broach@duke.edu,Amy Broach,685,Assistant Professor of Obstetrics and Gynecology
+879,1963.0,,1983.0,mgreer@duke.edu,Margaret Greer,2073,Professor Emeritus of Romance Studies
+880,,,2006.0,manijeh.berenji@duke.edu,Manijeh Berenji,443,Assistant Consulting Professor in the Department of Community and Family Medicine
+881,,,,andrea.hartzell@duke.edu,Andrea Hartzell,2258,Adjunct Associate in the Department of Orthopaedic Surgery
+882,,,2006.0,shawn.mcclintock@duke.edu,Shawn McClintock,3588,Adjunct Associate Professor in the Department of Psychiatry and Behavioral Sciences
+883,,,2008.0,,Emily Cooper,1150,Consulting Associate in the Department of Community and Family Medicine
+884,1981.0,,1991.0,monique.chireau@duke.edu,Monique Chireau,991,Assistant Professor of Obstetrics and Gynecology
+885,1997.0,,2003.0,nicolas.cassar@duke.edu,Nicolas Cassar,894,Associate Professor of Biogeochemistry in the Division of Earth & Ocean Sciences
+886,,,1998.0,manka001@mc.duke.edu,Mehul Mankad,3469,Assistant Professor of Psychiatry and Behavioral Sciences
+887,,,,mari.jorstad@duke.edu,Mari Jorstad,2720,"Instructor, Special Programs"
+888,,,2011.0,rafael.dix.carneiro@duke.edu,Rafael Dix-Carneiro,1406,Assistant Professor of Economics
+889,1982.0,,1989.0,nan.jokerst@duke.edu,Nan Jokerst,2691,"J. A. Jones Professor of Electrical and Computer Engineering in the Edmund T. Pratt, Jr. School of Engineering"
+890,,,2015.0,john.roberts@duke.edu,John Roberts,4678,Medical Instructor in the Department of Medicine
+891,,,2006.0,sionne.george@duke.edu,Sionne George,1902,Consulting Associate in the Department of Community and Family Medicine
+892,,,2012.0,linda.harrington@duke.edu,Linda Harrington,2232,Consulting Associate in the School of Nursing
+893,,,1989.0,pfau@duke.edu,Thomas Pfau,4315,Alice Mary Baldwin Professor of English
+894,,,2011.0,deesha.mago@duke.edu,Deesha Mago-Shah,3430,Medical Instructor in the Department of Pediatrics
+895,,,2006.0,erp16@duke.edu,"Edgardo Parrilla Castellar M.D.,",4210,Assistant Professor of Pathology
+896,,,1980.0,david.attarian@duke.edu,David Attarian,227,Professor of Orthopaedic Surgery
+897,1986.0,,1995.0,abmurray@duke.edu,Allen Murray,3930,Professor in the Division of Earth & Ocean Sciences
+898,1998.0,,2002.0,sarah.mears@duke.edu,Sarah Mears,3672,Clinical Associate in the School of Nursing
+899,1954.0,,1958.0,rball@duke.edu,Robert Ballantyne,279,Professor Emeritus of the Practice of Counseling Psychology
+900,,,1998.0,james.hedrick@duke.edu,James Hedrick,2313,Clinical Associate in the Department of Community and Family Medicine
+901,,,2010.0,amanda.hemmerich@duke.edu,Amanda Hemmerich,2333,Medical Instructor in the Department of Pathology
+902,,,1983.0,vfinucci@duke.edu,Valeria Finucci,1688,Professor of Romance Studies
+903,,,1980.0,,Randall Kramer,3012,Juli Plant Grainger Professor of Global Health
+904,,,1991.0,keels001@duke.edu,Martha Ann Keels,2810,Associate Consulting Professor in the Department of Surgery
+905,1995.0,,2000.0,lansford@duke.edu,Jennifer Lansford,3111,Research Professor in the Sanford School of Public Policy
+906,,,,jill.engel@duke.edu,Jill Engel,1571,Clinical Associate in the School of Nursing
+907,,,2015.0,,Sachelle Ford,1731,Lecturing Fellow in the Thompson Writing Program
+908,,,2007.0,benjamin.rattray@duke.edu,Benjamin Rattray,4540,Adjunct Associate in the Department of Pediatrics
+909,,,1992.0,dsilv001@duke.edu,Marisa D'Silva,1247,Assistant Professor of Medicine
+910,1979.0,,1993.0,mhacohen@duke.edu,Malachi Hacohen,2146,Associate Professor of History
+911,,,1973.0,,Jay Midwall,3739,Consulting Professor in the Department of Medicine
+912,,,1990.0,marisa.flores@duke.edu,Marisa Flores Kathard,1718,Clinical Associate in the Department of Pediatrics
+913,,,2012.0,richard.salsman@duke.edu,Richard Salsman,4824,Visiting Assistant Professor of Political Science
+914,1980.0,,1984.0,,Scott Buck,747,Assistant Consulting Professor in the Department of Pediatrics
+915,2008.0,,2011.0,yingkai.li@duke.edu,Yingkai Li,3258,Visiting Research Scholar in the Department of Neurology
+916,,,1998.0,,Joanne Band,285,Assistant Professor of Pediatrics
+917,,,1991.0,helen.egger@duke.edu,Helen Egger,1534,Adjunct Professor in the Department of Psychiatry and Behavioral Sciences
+918,,,1999.0,john.kirkpatrick@duke.edu,John Kirkpatrick,2924,Associate Professor of Radiation Oncology
+919,,,2001.0,eric.moore@duke.edu,Eric Moore,3833,Assistant Professor of Medicine
+920,,,1978.0,robert.schultz@duke.edu,Robert Schultz,4930,Clinical Associatein the Department of Orthopaedic Surgery
+921,,,2003.0,j.matthew.brennan@duke.edu,J. Matthew Brennan,664,Associate Professor of Medicine
+922,,,1974.0,fried010@mc.duke.edu,Allan Friedman,1796,"Guy L. Odom Professor of Neurosurgery, in the School of Medicine"
+923,,,2004.0,jullia.rosdahl@duke.edu,Jullia Rosdahl,4733,Assistant Professor of Ophthalmology
+924,,,1987.0,,James Dever,1365,Senior Lecturing Fellow
+925,,,1972.0,,Paul Miles,3750,Adjunct Professor in the Department of Pediatrics
+926,,,1989.0,loretta.braxton@duke.edu,Loretta Braxton,657,Assistant Professor of Psychiatry and Behavioral Sciences
+927,,,1981.0,george.grody@duke.edu,George Grody,2091,Instructor of Markets & Management Studies
+928,,,1993.0,brewer.randall@duke.edu,Randall Brewer,674,Assistant Consulting Professor in the Department of Anesthesiology
+929,,,2007.0,harrison.jones@duke.edu,Harrison Jones,2698,Associate Professor of Surgery
+930,,,2009.0,vijaya.raavi@duke.edu,Vijaya Raavi,4477,Consulting Associate of the School of Nursing
+931,1990.0,,1999.0,alhall@div.duke.edu,Amy Hall,2164,Associate Professor of Christian Ethics
+932,,,2007.0,amyalspaugh@gmail.com,Amy Alspaugh,117,Consulting Associate in the School of Nursing
+933,,,1984.0,,David Peden,4266,Adjunct Associate Professor in the Department of Medicine
+934,,,,franc006@mc.duke.edu,Allen Frances,1765,Professor Emeritus of Psychiatry and Behavioral Sciences
+935,,,,amy.kostrewa@duke.edu,Amy Kostrewa,2995,"Instructor, Temporary in Continuing Studies"
+936,,,2001.0,eric.elbogen@duke.edu,Eric Elbogen,1550,Professor in Psychiatry and Behavioral Sciences
+937,,,,alexander.paraschos@duke.edu,Alexander Paraschos,4186,Clinical Associate in the Department of Medicine
+938,,,1991.0,susan.hazlett@duke.edu,Pamela Hazlett,2298,Assistant Professor of Psychiatry and Behavioral Sciences
+939,,,1992.0,gene.oddone@duke.edu,Eugene Oddone,4087,Professor of Medicine
+940,,,2002.0,,Crystal Icenhour,2568,Adjunct Assistant Professor in the Department of Medicine
+941,,,,jajoseph@duke.edu,James Joseph,2722,Professor of the Practice Emeritus in the Sanford School of Public Policy
+942,,,1996.0,lawrence.liao@duke.edu,Lawrence Liao,3262,Assistant Professor of Medicine
+943,,,1998.0,k.poss@cellbio.duke.edu,Kenneth Poss,4386,James B. Duke Professor of Cell Biology
+944,,,1999.0,bryan.hampton@duke.edu,Bryan Hampton,2197,Assistant Consulting Professor in the Department of Community and Family Medicine
+945,,,2002.0,lauren.franz@duke.edu,Lauren Franz,1775,Assistant Professor of Psychiatry and Behavioral Sciences
+946,,,2011.0,royanne.moore@duke.edu,Royanne Moore,3839,Consulting Associate in the School of Nursing
+947,,,2001.0,marc.calabrese@duke.edu,Marc Calabrese,814,Adjunct Associate in the Department of Community and Family Medicine
+948,,,1998.0,,David Ashley,212,Assistant Consulting Professor in the Department of Neurosurgery
+949,,,2012.0,kathleen.ashton@duke.edu,Kathleen Ashton,216,Assistant Professor in the School of Nursing
+950,,,2009.0,,Matthew Kappus,2772,Assistant Professor of Medicine
+951,,,1995.0,levinlg@mac.com,Linda Levin,3223,Associate Consulting Professor in the Department of Surgery
+952,,,1994.0,gentr054@mc.duke.edu,Jennifer Gentry,1897,Clinical Associate in the School of Nursing
+953,,,2007.0,randa.dafalla@duke.edu,Randa Dafalla,1248,Visiting Research Scholar in the Department of Radiology
+954,,,1990.0,amy.rice@duke.edu,Amy Rice,4631,Assistant Consulting Professor in the Department of Anesthesiology
+955,,,2002.0,charlotte.t.lee@duke.edu,Charlotte Lee,3166,Scholar in Residence in the Department of Biology
+956,1984.0,,1990.0,sbrover@duke.edu,Sherryl Broverman,704,Associate Professor of the Practice of Biology
+957,,,2002.0,yiping.he@duke.edu,Yiping He,2301,Assistant Professor of Pathology
+958,,,2003.0,,Talal Dahhan,1249,Medical Instructor in the Department of Medicine
+959,,,2009.0,jonathan.m.cohen@duke.edu,Jonathan Cohen,1088,Clinical Associate in the Department of Surgery
+960,1985.0,,1995.0,carolyn.lekavich@duke.edu,Carolyn Lekavich,3202,Clinical Associate in the School of Nursing
+961,,,1998.0,,Rania Kazan,2803,Assistant Professor of Medicine
+962,,,2001.0,lisa.hobsonwebb@duke.edu,Lisa Hobson-Webb,2402,Associate Professor of Neurology
+963,,,2007.0,,Mitchell Black,502,Assistant Professor of Medicine
+964,,,1998.0,elizabeth.hauser@duke.edu,Elizabeth Hauser,2272,Professor of Biostatistics and Bioinformatics
+965,,,1992.0,paul.b.rosenberg@duke.edu,Paul Rosenberg,4743,Associate Professor of Medicine
+966,,,1973.0,raelson@duke.edu,Anthony Elson,1564,Visiting Lecturer in the Sanford School of Public Policy
+967,,,2009.0,cheryl.rodgers@duke.edu,Cheryl Rodgers,4703,Assistant Professor in the School of Nursing
+968,,,1990.0,lynn.keplinger@duke.edu,Lynn Keplinger,2849,Consulting Associate in the Department of Medicine
+969,,,2000.0,w.robert.lee@duke.edu,William Lee,3183,Professor of Radiation Oncology
+970,,,2002.0,libby.carver@duke.edu,Elizabeth Carver,882,Clinical Associate in the School of Nursing
+971,,,1985.0,kathy.merritt@duke.edu,Kathy Merritt,3707,Assistant Consulting Professor in the Department of Pediatrics
+972,,,2002.0,anastasia.litvintseva@duke.edu,Anastasia Litvintseva,3308,Adjunct Assistant Professor in the Department of Molecular Genetics and Microbiology
+973,,,1988.0,haglu001@mc.duke.edu,Michael Haglund,2151,Duke Surgery Professor of Neurosurgery in the School of Medicine
+974,,,1987.0,bali0001@duke.edu,Deeksha Bali,277,Professor of Pediatrics
+975,,,1972.0,clyde.helms@duke.edu,Clyde Helms,2331,Consulting Professor in the Department of Radiology
+976,,,1980.0,john.fairbank@duke.edu,John Fairbank,1614,Professor of Psychiatry and Behavioral Sciences
+977,,,1989.0,ralph.lawrence@duke.edu,Ralph Lawrence,3145,Adjunct Professor of Political Science
+978,2010.0,,2015.0,daniel.fowler0@duke.edu,Daniel Fowler,1752,Instructor of Chemistry
+979,1993.0,,1997.0,sean.montgomery@duke.edu,Sean Montgomery,3820,Assistant Professor of Surgery
+980,1947.0,,1950.0,dfluke@duke.edu,Donald Fluke,1721,Professor Emeritus
+981,,,1992.0,grome001@mc.duke.edu,Matthias Gromeier,2093,Professor of Neurosurgery
+982,,,2001.0,pinar.gumus@duke.edu,Pinar Gumus Balikcioglu,2111,Assistant Professor of Pediatrics
+983,,,1991.0,plesser@cgtp.duke.edu,M. Plesser,4355,Professor of Physics
+984,,,1982.0,light001@mc.duke.edu,Virginia Lightner,3268,Assistant Consulting Professor of Dermatology
+985,,,1972.0,nancy.livingston@duke.edu,Nancy Livingston,3321,Assistant Consulting Professor in the Department of Psychiatry and Behavioral Sciences
+986,,,2009.0,steve.panyko@dhhs.nc.gov,Stephen Panyko,4180,Consulting Associate in the Department of Psychiatry and Behavioral Sciences
+987,,,1980.0,coffm002@duke.edu,Thomas Coffman,1082,"James R. Clapp Professor of Medicine, in the School of Medicine"
+988,1960.0,,1966.0,shmaus@duke.edu,Seymour Mauskopf,3551,Professor Emeritus of History
+989,,,1991.0,,Henry Chow,1002,Consulting Associate in the Department of Medicine
+990,,,1999.0,green054@mc.duke.edu,Cynthia Green,2055,Assistant Professor of Biostatistics and Bioinformatics
+991,,,2000.0,nicole.schrammsapyta@duke.edu,Nicole Schramm-Sapyta,4920,Assistant Professor of the Practice in Duke Institute for Brain Sciences
+992,1983.0,,1985.0,epritch@duke.edu,Eric Pritchard,4430,Professor of the Practice in the Department of Music
+993,,,1983.0,azadi@duke.edu,Amir Rezvani,4624,Professor in Psychiatry and Behavioral Sciences
+994,,,1955.0,fridovich@biochem.duke.edu,Irwin Fridovich,1793,James B. Duke Professor Emeritus of Medicine
+995,2008.0,,2014.0,carolyn.barnes@duke.edu,Carolyn Barnes,318,Assistant Professor in the Sanford School of Public Policy
+996,2003.0,,2010.0,victor.bennett@duke.edu,Victor Bennett,431,Assistant Professor of Business Administration
+997,1988.0,,2001.0,michael.relf@duke.edu,Michael Relf,4603,"Associate Professor in the School of Nursing, with tenure"
+998,,,1990.0,green061@mc.duke.edu,Lawrence Greenblatt,2062,Professor of Medicine
+999,,,2000.0,,Alejandro Aballay,2,Professor of Molecular Genetics and Microbiology
