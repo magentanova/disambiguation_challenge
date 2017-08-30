@@ -15,16 +15,3 @@ def generateSparseNamesDict():
 
 sparseNamesDict = generateSparseNamesDict()
 
-ct = 0
-for key in sparseNamesDict: 
-	if (len(sparseNamesDict[key]) > 1):
-		print key, len(sparseNamesDict[key])
-		ct += 1 
-
-print ct
-# for i,row in assets.iterrows(): 
-# 	for nameData in row['names']:
-
-
-# identities['publication_ids'] = idSets
-# identities.reset_index().to_json('identities_enriched_by_field.json', orient='records')
