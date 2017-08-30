@@ -20,7 +20,26 @@ My script for this strategy is `disambiguation_by_email.py`, and the output is i
 
 Note: This was the only strategy I had time to implement in full. The other strategies were planned, but I didn't do much in the way of coding them. 
 
-### Disambiguation by Field
+### Disambiguation by Field of Study
+
+All or nearly all of the identities are missing "department" fields, but we can do a lot toward inferring their department by parsing their "title" fields. Then we search various properties of an asset for a string match. The steps I imagined were as follows: 
+  - create a lookup table keying each identities on his or her "sparse name" — FIRSTINITIAL_LASTNAME.
+  - Use RegExp to pull the word after a "Professor of | Professor in | Department of | Associate in" pattern. 
+    - (Later we could use syntactic parsing to pull the full noun phrase that was the object of the preposition "of/in" in the above cases, getting cases like "Professor of Psychiatry and Behavioral Sciences".)
+  - Use a stemmer to get the base of that word (e.g. psychiatric -> psychiatry), and add it to the lookup table.
+  - For each asset
+    - If an author matches the sparse name of one of our identities, then stem each word in the asset's abstract, title and journal, and check for a match against the identity's stemmed field of study.
+    - This field-of-study match should be a feature in our ultimate matching model.
+    
+The first step above was about as far as I got in `disambiguation_by_field.py`.
+
+### Disambiguation by Association with Known Author
+
+The email-based disambiguation provides us with a large number of surefire connections between identities and assets. We can use this certainty to bootstrap better guesses about identities we're less certain of. 
+
+Let's say we have two authors on a paper: one whose identity is confirmed, and the other whose identity is ambiguous among several possibilites. We can grade each of those possiblities on association with the confirmed author — shared field of study, shared university affiliation, similar doctoral graduation year. Zachary told me after the challenge that previous coauthorship is something that Green Sight is already working on as a disambiguation predictor. 
+
+
 
 
 
