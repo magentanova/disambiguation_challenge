@@ -39,6 +39,7 @@ The email-based disambiguation provides us with a large number of surefire conne
 
 Let's say we have two authors on a paper: one whose identity is confirmed, and the other whose identity is ambiguous among several possibilites. We can grade each of those possiblities on association with the confirmed author — shared field of study, shared university affiliation, similar doctoral graduation year. Zachary told me after the challenge that previous coauthorship is something that Green Sight is already working on as a disambiguation predictor. 
 
+In a case like this, each separate datum on coauthorship would become a feature in a vector representation of a possible match: "shared_field_with_coauthor", "shared_affiliation_with_coauthor", "prior_publications_with_coauthor", etc., plus derived metrics like the proportion of the identity's prior publications were with the coauthor, the proportion of the coauthor's that were with the identity, and so on. 
 
 
 
