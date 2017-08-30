@@ -29,6 +29,7 @@ All or nearly all of the identities are missing "department" fields, but we can 
   - Use a stemmer to get the base of that word (e.g. psychiatric -> psychiatry), and add it to the lookup table.
   - For each asset
     - If an author matches the sparse name of one of our identities, then stem each word in the asset's abstract, title and journal, and check for a match against the identity's stemmed field of study.
+      - (Later we could do semantic distance measurements instead of string matching, so that "osteoporosis <--> orthopedics" still gets you something. Then we'd record the maximum semantic distance score from these comparisons.)
     - This field-of-study match should be a feature in our ultimate matching model.
     
 The first step above was as far as I got in `disambiguation_by_field.py`.
